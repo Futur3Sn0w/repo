@@ -1,0 +1,19 @@
+<package>
+	<id>com.futur3sn0w.i13</id>
+	<name>iOS 13 Concept Theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Try the iOS 13 concept theme from Reddit on your device!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
