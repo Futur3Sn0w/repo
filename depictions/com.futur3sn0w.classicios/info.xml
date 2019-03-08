@@ -1,0 +1,20 @@
+<package>
+	<id>com.futur3sn0w.classicios</id>
+	<name>Classic iOS Theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Get the iOS 13 concept theme on your device!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release!</change>
+		<change>Be sure to thank Volcy123 for his work!</changes>
+	</changelog>
+	<links></links>
+</package>
