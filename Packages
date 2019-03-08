@@ -11,3 +11,18 @@ Filename: ./debs/com.futur3sn0w.i13theme_1.0-1_iphoneos-arm.deb
 Depiction: https://futur3sn0w.github.io/repo/depictions/?p=com.futur3sn0w.i13theme
 Size: 41036
 MD5sum: 60937110468a1ba1d78e32053999aef8
+
+Package: com.futur3sn0w.classicios
+Name: Classic iOS Theme
+Depends: firmware (>= 11.0), mobilesubstrate, com.spark.snowboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Get the classic, skeuomorphic iOS theme on your device!
+Maintainer: Futur3Sn0w <futur3sn0w@gmail.com>
+Author: Volcy123
+Section: Themes (SnowBoard)
+Filename: ./debs/com.futur3sn0w.classicios_1.0-1_iphoneos-arm.deb
+Depiction: https://futur3sn0w.github.io/repo/depictions/?p=com.futur3sn0w.classicios
+Size: 8749568
+MD5sum: ef352173a2d6658beb3b44f93b67e08e
+
