@@ -1,7 +1,7 @@
 <package>
 	<id>com.futur3sn0w.classicios</id>
 	<name>Classic iOS Theme</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -13,8 +13,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release!</change>
-		<change>Be sure to thank Volcy123 for his work!</change>
+		<change>Removed .DS_store to prevent issues</change>
 	</changelog>
 	<links></links>
 </package>

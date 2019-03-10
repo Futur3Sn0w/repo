@@ -2,6 +2,7 @@
 	<changes>
 		<version>1.0</version>
 		<change>Initial release!</change>
-		<change>Be sure to thank Volcy123 for his work!</change>
+		<version>1.0.1</version>
+		<change>Removed .DS_store to prevent issues</change>
 	</changes>
 </changelog>
