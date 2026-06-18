@@ -3,27 +3,27 @@ Label: Futur3Sn0w's Public Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Futur3Sn0w jailbreak tweaks.
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 MD5Sum:
- db9cd1a8dfef02e95e4ab32550b63482             2156 main/binary-iphoneos-arm/Packages
- b341bbcf2ec4844308cb7a98f9b5b8fe              925 main/binary-iphoneos-arm/Packages.gz
- db9cd1a8dfef02e95e4ab32550b63482             2156 main/binary-iphoneos-arm64/Packages
- b341bbcf2ec4844308cb7a98f9b5b8fe              925 main/binary-iphoneos-arm64/Packages.gz
- db9cd1a8dfef02e95e4ab32550b63482             2156 main/binary-iphoneos-arm64e/Packages
- b341bbcf2ec4844308cb7a98f9b5b8fe              925 main/binary-iphoneos-arm64e/Packages.gz
+ 3428d7117a35dde248236ea4c32f2494             3778 main/binary-iphoneos-arm/Packages
+ 387fac19e402396f1fd9bc123ea03295             1252 main/binary-iphoneos-arm/Packages.gz
+ 3428d7117a35dde248236ea4c32f2494             3778 main/binary-iphoneos-arm64/Packages
+ 387fac19e402396f1fd9bc123ea03295             1252 main/binary-iphoneos-arm64/Packages.gz
+ 3428d7117a35dde248236ea4c32f2494             3778 main/binary-iphoneos-arm64e/Packages
+ 387fac19e402396f1fd9bc123ea03295             1252 main/binary-iphoneos-arm64e/Packages.gz
 SHA1:
- 46154dfa29c1ecea86494f5aa3c82e67bcfdfd60             2156 main/binary-iphoneos-arm/Packages
- d93f266304035469347f666aaae83a810b12c0dc              925 main/binary-iphoneos-arm/Packages.gz
- 46154dfa29c1ecea86494f5aa3c82e67bcfdfd60             2156 main/binary-iphoneos-arm64/Packages
- d93f266304035469347f666aaae83a810b12c0dc              925 main/binary-iphoneos-arm64/Packages.gz
- 46154dfa29c1ecea86494f5aa3c82e67bcfdfd60             2156 main/binary-iphoneos-arm64e/Packages
- d93f266304035469347f666aaae83a810b12c0dc              925 main/binary-iphoneos-arm64e/Packages.gz
+ 5dfb0c0a35a07d1e7f38371373f08cce1a4246d3             3778 main/binary-iphoneos-arm/Packages
+ cd25650e3db464d7219ddeb1033549fe0b7a76b4             1252 main/binary-iphoneos-arm/Packages.gz
+ 5dfb0c0a35a07d1e7f38371373f08cce1a4246d3             3778 main/binary-iphoneos-arm64/Packages
+ cd25650e3db464d7219ddeb1033549fe0b7a76b4             1252 main/binary-iphoneos-arm64/Packages.gz
+ 5dfb0c0a35a07d1e7f38371373f08cce1a4246d3             3778 main/binary-iphoneos-arm64e/Packages
+ cd25650e3db464d7219ddeb1033549fe0b7a76b4             1252 main/binary-iphoneos-arm64e/Packages.gz
 SHA256:
- c342b0b2692ec4bad3440730f283e2820cccd870161b7694d8ff78c67116b410             2156 main/binary-iphoneos-arm/Packages
- 0226164eee0ad2e6cb16c616bff178657ed6ab8da88fd6b10d7ae029aec2857a              925 main/binary-iphoneos-arm/Packages.gz
- c342b0b2692ec4bad3440730f283e2820cccd870161b7694d8ff78c67116b410             2156 main/binary-iphoneos-arm64/Packages
- 0226164eee0ad2e6cb16c616bff178657ed6ab8da88fd6b10d7ae029aec2857a              925 main/binary-iphoneos-arm64/Packages.gz
- c342b0b2692ec4bad3440730f283e2820cccd870161b7694d8ff78c67116b410             2156 main/binary-iphoneos-arm64e/Packages
- 0226164eee0ad2e6cb16c616bff178657ed6ab8da88fd6b10d7ae029aec2857a              925 main/binary-iphoneos-arm64e/Packages.gz
+ 09cd37a48db69d014ba4df40b7586cc3122c3b471ffaa42443353ba8dc83af7d             3778 main/binary-iphoneos-arm/Packages
+ 826475483733de8d8932f245dcf494b64f1e7c19f3902f29bcc5d78f811c2d90             1252 main/binary-iphoneos-arm/Packages.gz
+ 09cd37a48db69d014ba4df40b7586cc3122c3b471ffaa42443353ba8dc83af7d             3778 main/binary-iphoneos-arm64/Packages
+ 826475483733de8d8932f245dcf494b64f1e7c19f3902f29bcc5d78f811c2d90             1252 main/binary-iphoneos-arm64/Packages.gz
+ 09cd37a48db69d014ba4df40b7586cc3122c3b471ffaa42443353ba8dc83af7d             3778 main/binary-iphoneos-arm64e/Packages
+ 826475483733de8d8932f245dcf494b64f1e7c19f3902f29bcc5d78f811c2d90             1252 main/binary-iphoneos-arm64e/Packages.gz
