@@ -1,0 +1,17 @@
+Origin: Futur3Sn0w
+Label: Futur3Sn0w's Public Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Futur3Sn0w jailbreak tweaks.
+MD5Sum:
+ db9cd1a8dfef02e95e4ab32550b63482             2156 main/binary-iphoneos-arm/Packages
+ b341bbcf2ec4844308cb7a98f9b5b8fe              925 main/binary-iphoneos-arm/Packages.gz
+SHA1:
+ 46154dfa29c1ecea86494f5aa3c82e67bcfdfd60             2156 main/binary-iphoneos-arm/Packages
+ d93f266304035469347f666aaae83a810b12c0dc              925 main/binary-iphoneos-arm/Packages.gz
+SHA256:
+ c342b0b2692ec4bad3440730f283e2820cccd870161b7694d8ff78c67116b410             2156 main/binary-iphoneos-arm/Packages
+ 0226164eee0ad2e6cb16c616bff178657ed6ab8da88fd6b10d7ae029aec2857a              925 main/binary-iphoneos-arm/Packages.gz
