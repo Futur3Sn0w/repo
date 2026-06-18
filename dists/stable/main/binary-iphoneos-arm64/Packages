@@ -1,34 +1,68 @@
-Package: com.futur3sn0w.solert
-Name: Solert
+Package: com.futur3sn0w.centerlastrow
+Name: CenterLastRow
 Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Architecture: iphoneos-arm
+Description: Centers the final SpringBoard icon row when it is not full.
 Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: firmware (>= 15.0)
+Depends: mobilesubstrate
 Section: Tweaks
-Installed-Size: 244
-Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 25040
-MD5sum: 399c6555e0b253af6706f3b43d2b45f4
-SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
-SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+Installed-Size: 64
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9802
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
 
-Package: com.futur3sn0w.swipeformore7
-Name: SwipeForMore7
-Version: 1.2.5+ios7.12
-Architecture: iphoneos-arm
-Description: Manage packages in Cydia via swipe.
-Maintainer: Futur3Sn0w
-Author: Futur3Sn0w
-Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.centerlastrow
+Name: CenterLastRow
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Description: Centers the final SpringBoard icon row when it is not full.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate
 Section: Tweaks
-Installed-Size: 180
-Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
-Size: 42772
-MD5sum: e6b9305d45ce0428cdfdc67586995e24
-SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
-SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
+Installed-Size: 64
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 9882
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Package: com.futur3sn0w.muteflash
+Name: MuteFlash
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm64
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Section: Tweaks
+Installed-Size: 352
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Size: 11358
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Package: com.futur3sn0w.mutemodule
+Name: MuteModule
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm64
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate
+Section: Tweaks
+Installed-Size: 172
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Size: 7836
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
 
 Package: com.futur3sn0w.noseparators
 Name: NoSeparators
@@ -62,35 +96,35 @@ MD5sum: e5602cc766204c64415b5891e5d4933b
 SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
 SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
 
-Package: com.futur3sn0w.centerlastrow
-Name: CenterLastRow
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Description: Centers the final SpringBoard icon row when it is not full.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: mobilesubstrate
-Section: Tweaks
-Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 9882
-MD5sum: a100acb81ea066a2f6f0a711c598eb6f
-SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
-SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
-
-Package: com.futur3sn0w.centerlastrow
-Name: CenterLastRow
+Package: com.futur3sn0w.solert
+Name: Solert
 Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Description: Centers the final SpringBoard icon row when it is not full.
+Architecture: iphoneos-arm64
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
 Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: mobilesubstrate
+Depends: firmware (>= 15.0)
 Section: Tweaks
-Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
-Size: 9802
-MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
-SHA1: d32018223864b4edccef982ee31232eaa6a49347
-SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+Installed-Size: 244
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 25040
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Package: com.futur3sn0w.swipeformore7
+Name: SwipeForMore7
+Version: 1.2.5+ios7.12
+Architecture: iphoneos-arm
+Description: Manage packages in Cydia via swipe.
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 180
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+Size: 42772
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
 
