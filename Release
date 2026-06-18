@@ -6,4 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Futur3Sn0w jailbreak tweaks.
-
+MD5Sum:
+ fcf572bf8d2cb91fe11ad0817dd0d480             2156 Packages
+ 6a0e18e4ed6e4f8d2cf59652ee30f10d              930 Packages.gz
+SHA1:
+ f5706a170954d5771d3808d7793911b04b1ec583             2156 Packages
+ 2eeacefe395f102c73864abd8ad451dcede378dc              930 Packages.gz
+SHA256:
+ df6336b7d85b35b2771ff672f569088348cd00c617601b9106dbdbcf3b9445b2             2156 Packages
+ 08e4c4bf518d847630480626a26e375ed6c68382e874e5c53d6c025dda0a7999              930 Packages.gz
