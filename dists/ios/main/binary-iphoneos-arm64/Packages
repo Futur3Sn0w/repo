@@ -1,0 +1,64 @@
+Package: com.futur3sn0w.swipeformore7
+Name: SwipeForMore7
+Version: 1.2.5+ios7.12
+Architecture: iphoneos-arm
+Description: Manage packages in Cydia via swipe.
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 180
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+Size: 42774
+MD5sum: deac5cd79c110fe115a534326fe04905
+SHA1: 086bfc3cbd173dd4b11c391f39c0bc6ba7f4502c
+SHA256: f9df41f73680ff57898400921778677aab8c2e02e776917c2a22ddbd33344155
+
+Package: com.futur3sn0w.noseparators
+Name: NoSeparators
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 140
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Size: 14832
+MD5sum: 0389880f7e22a09adeba8835dd7ae901
+SHA1: b9b83f47b49edb52863a5115e317e9853deeb58a
+SHA256: 87833c342fe995b23c5c12c6ccf943747406547ff5e3d2a563158953ca749511
+
+Package: com.futur3sn0w.centerlastrow
+Name: CenterLastRow
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: Centers the final SpringBoard icon row when it is not full.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate
+Section: Tweaks
+Installed-Size: 64
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9798
+MD5sum: 5df004e0c9b614e8e8ad247e731e0cc9
+SHA1: 9aca9f609fbdc3606494076c7e6aa389a8d1212b
+SHA256: e12334a7d63b2691ae369b938624a8882250ad56bed1902affe230bcb91a38cd
+
+Package: com.futur3sn0w.seveneleven
+Name: SevenEleven
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: Incrementally restores iOS 7-style app switcher behavior on iOS 11.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate
+Section: Tweaks
+Installed-Size: 112
+Filename: debs/com.futur3sn0w.seveneleven_0.0.1-1+debug_iphoneos-arm.deb
+Size: 22102
+MD5sum: 4316fac4442acb12d17dcc8665626d4c
+SHA1: 3e7926b62b782ec80c5f4f43cbcfb7f1c83f4c41
+SHA256: b43c90af4e331bd5d6b821c56dbc2b5225f6799aa2e42b8b1a351ff4a238a779
+
