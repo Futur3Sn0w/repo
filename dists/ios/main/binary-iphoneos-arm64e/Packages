@@ -1,3 +1,19 @@
+Package: com.futur3sn0w.solert
+Name: Solert
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 15.0)
+Section: Tweaks
+Installed-Size: 244
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 25040
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
 Package: com.futur3sn0w.swipeformore7
 Name: SwipeForMore7
 Version: 1.2.5+ios7.12
@@ -5,50 +21,50 @@ Architecture: iphoneos-arm
 Description: Manage packages in Cydia via swipe.
 Maintainer: Futur3Sn0w
 Author: Futur3Sn0w
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 180
 Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
-Size: 42774
-MD5sum: 783f1e75bdf036d6abd32afca705f886
-SHA1: 7c7e8989c5a3410eae01368d19d371d544311f52
-SHA256: ca6d0c150c92332f5c86f8fea2850496688b1b46056ef2c4917e08b8ac66d98a
+Size: 42772
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
 
 Package: com.futur3sn0w.noseparators
 Name: NoSeparators
-Version: 0.0.1-2+debug
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Description: Hide common UIKit separator lines systemwide on iOS 11.
 Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: mobilesubstrate, preferenceloader
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 140
-Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm.deb
-Size: 14850
-MD5sum: 830c8e080d8a9b78c652bb9169e1d4c6
-SHA1: 5cd2448d9dba696984b20769efd97baf37396872
-SHA256: d4b115f558583b3c091bf567031598e750958553e8c327625ab33663f921e558
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Size: 14862
+MD5sum: 8764260c2f872847d980417cd104f37e
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
 
 Package: com.futur3sn0w.noseparators
 Name: NoSeparators
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Description: Hide common UIKit separator lines systemwide on iOS 11.
 Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: mobilesubstrate, preferenceloader
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 140
-Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 14920
-MD5sum: df56fc8575806cd18f8f9176383897a8
-SHA1: fe081e6dbbaced2550b85147e1b572dbef0f8608
-SHA256: 54570a98c06923397f9d0175a6bec03f6be382eaa41607037718026b5d476b33
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 14946
+MD5sum: e5602cc766204c64415b5891e5d4933b
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
 
 Package: com.futur3sn0w.centerlastrow
 Name: CenterLastRow
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Description: Centers the final SpringBoard icon row when it is not full.
 Maintainer: futur3sn0w
@@ -56,15 +72,15 @@ Author: futur3sn0w
 Depends: mobilesubstrate
 Section: Tweaks
 Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 9884
-MD5sum: c646ee51eefdde3f66a3e36ddcddce3f
-SHA1: dcf363e0b00c07cd251df7ba54aa69f513741841
-SHA256: aa8407695bdbc1df3488b2ed9c39e434a56350916743f394bf58d25a11b3afa8
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 9882
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
 
 Package: com.futur3sn0w.centerlastrow
 Name: CenterLastRow
-Version: 0.0.1-2+debug
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Description: Centers the final SpringBoard icon row when it is not full.
 Maintainer: futur3sn0w
@@ -72,41 +88,9 @@ Author: futur3sn0w
 Depends: mobilesubstrate
 Section: Tweaks
 Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm.deb
-Size: 9798
-MD5sum: f609d28dd774634acf3bdf4e7fc39dd3
-SHA1: f834b64d78c6c6ad99c006b2964ebebab9c147e8
-SHA256: 1c7a80d965d388e4e8acc338d4bd233994eda09fb9ea0a0b84e431e8390f8111
-
-Package: com.futur3sn0w.seveneleven
-Name: SevenEleven
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Description: Incrementally restores iOS 7-style app switcher behavior on iOS 11.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: mobilesubstrate
-Section: Tweaks
-Installed-Size: 112
-Filename: debs/com.futur3sn0w.seveneleven_0.0.1-2+debug_iphoneos-arm.deb
-Size: 22110
-MD5sum: 5c1fe8e24af1f0d89115f69a0afeda34
-SHA1: 897ef67209f85b9d5e3679324d3e35e59e55096c
-SHA256: a8221e7c6b9723487bc744a50e74a91526cc5716c45580c82ccf4586149cbe2f
-
-Package: com.futur3sn0w.seveneleven
-Name: SevenEleven
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64
-Description: Incrementally restores iOS 7-style app switcher behavior on iOS 11.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: mobilesubstrate
-Section: Tweaks
-Installed-Size: 112
-Filename: debs/com.futur3sn0w.seveneleven_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 22190
-MD5sum: 5a275d4b45c4a46b25bc894689dc3e15
-SHA1: 8d0bdc7f2d34d869a3a2db0cf64d0b66e522aae7
-SHA256: 81ab9ae1869bb1f6185b539d00d140ee695fdfc5235acfeb563ace51c208cfa6
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9802
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
 
