@@ -48,19 +48,19 @@ SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
 
 Package: com.futur3sn0w.duowall
 Name: DuoWall
-Version: 0.0.3-2+debug
+Version: 0.0.4-1+debug
 Architecture: iphoneos-arm64
-Description: Create a wallpaper pair that follows the system light and dark appearance. Includes an iOS 16 PosterBoard compatibility probe.
+Description: Create and apply a native wallpaper pair that follows the system light and dark appearance on iOS 15 and 16.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 400
-Filename: debs/com.futur3sn0w.duowall_0.0.3-2+debug_iphoneos-arm64.deb
-Size: 27830
-MD5sum: ca4f1654761b9f265dd1eac5a9a6df08
-SHA1: 235f9b1b6223e7e471d123e3b486ffcb7f4f5602
-SHA256: 1a6b3649fddaef24b8f05dd31ede18d7303a10870809f78e6e47653dfbf0ec9c
+Installed-Size: 420
+Filename: debs/com.futur3sn0w.duowall_0.0.4-1+debug_iphoneos-arm64.deb
+Size: 35138
+MD5sum: d43d93acfdd5795120b75b6ceade62ee
+SHA1: c2ac3a7562c2e6c4ee81d9103c58f5af085ec207
+SHA256: 1c679175db21b3f5187ed115a9d95f9e96543ead3a0126b628c105aa4291b10d
 
 Package: com.futur3sn0w.muteflash
 Name: MuteFlash
