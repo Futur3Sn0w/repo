@@ -48,19 +48,19 @@ SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
 
 Package: com.futur3sn0w.duowall
 Name: DuoWall
-Version: 0.0.39-1+debug
+Version: 0.0.40-1+debug
 Architecture: iphoneos-arm64
-Description: Create and apply a native light and dark WallpaperKit bundle with a Pocket Poster style descriptor path and normalized inner poster asset metadata.
+Description: Create and apply a native light and dark WallpaperKit bundle with a Pocket Poster style descriptor path and a narrowed inner asset identifier rewrite.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 716
-Filename: debs/com.futur3sn0w.duowall_0.0.39-1+debug_iphoneos-arm64.deb
-Size: 94906
-MD5sum: 42414deb17425ad0b07a9a5cad1c097f
-SHA1: 975786eea5621b356b8587d455f194e669eaec0e
-SHA256: 33975ca614b23430d8c75e04f0e50b27c556802b3c33fc22dc5ae0a4ada64047
+Filename: debs/com.futur3sn0w.duowall_0.0.40-1+debug_iphoneos-arm64.deb
+Size: 94340
+MD5sum: d266569e56f58d0861035eed56fe1aba
+SHA1: 509f82ccdeb923d7ddfd72110bfb6dc9e1f142c4
+SHA256: a2627672d5e23765c3be14bdae25bc6c8215c2cadb7e804158e9112eb083488d
 
 Package: com.futur3sn0w.muteflash
 Name: MuteFlash
