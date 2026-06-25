@@ -1,6 +1,6 @@
 Package: com.futur3sn0w.batterymirror
 Name: BatteryMirror
-Version: 0.0.1-75+debug
+Version: 0.0.2-1+debug
 Architecture: iphoneos-arm64
 Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
 Maintainer: futur3sn0w
@@ -8,11 +8,11 @@ Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 452
-Filename: debs/com.futur3sn0w.batterymirror_0.0.1-75+debug_iphoneos-arm64.deb
-Size: 38418
-MD5sum: fa16415d2be87ec8271bf9b0acb90091
-SHA1: 06f657f42bc543636e919576eb9c6e53e9e359ed
-SHA256: 3428c806177a4a60cd4343235d7a138706982e0df564ee2d41684e6980e3412a
+Filename: debs/com.futur3sn0w.batterymirror_0.0.2-1+debug_iphoneos-arm64.deb
+Size: 36036
+MD5sum: 3428a26aeefeead2f54c17e68433b56e
+SHA1: 05834a29a78f2c44997ab8f2ea99b718a7c921a4
+SHA256: 180c51f47432507a1ecc4d3af67f44807ca12059e002346eda89ed8328212137
 
 Package: com.futur3sn0w.ccsupportbatteryfix
 Name: CCSupport Battery Fix
