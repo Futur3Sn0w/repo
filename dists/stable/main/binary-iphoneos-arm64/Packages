@@ -16,7 +16,7 @@ SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
 
 Package: com.futur3sn0w.battfx
 Name: BattFX
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm64
 Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
 Maintainer: futur3sn0w
@@ -24,11 +24,11 @@ Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
 Installed-Size: 348
-Filename: debs/com.futur3sn0w.battfx_0.0.2_iphoneos-arm64.deb
-Size: 18488
-MD5sum: 35176dadbd3f800e65af48b6d4a8af19
-SHA1: fea32f0c4d05fba62b6b09606b446c6c8d48c6b0
-SHA256: 549a9a3e32a09721000df412394b1175dc3b91fcbf724ad1f4f339809d8fa254
+Filename: debs/com.futur3sn0w.battfx_0.0.3_iphoneos-arm64.deb
+Size: 18396
+MD5sum: c86e9b2b3e2d38a89d87383a1a22622e
+SHA1: 2e5809e86ca9e2cf22676028e7652e1ed4d2849a
+SHA256: 33c75bb03cf94e6ddad93e085fb80ce4de904b211f2a6c3ecb6a38d8a3d686ad
 
 Package: com.futur3sn0w.ccsupportbatteryfix
 Name: CCSupport Battery Fix
