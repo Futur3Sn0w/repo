@@ -1,4 +1,6 @@
 Package: com.futur3sn0w.batterymirror
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
 Name: BatteryMirror
 Version: 0.0.3-1+debug
 Architecture: iphoneos-arm64
@@ -15,6 +17,8 @@ SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
 SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
 
 Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
 Name: BattFX
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -31,6 +35,8 @@ SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
 SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
 
 Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
 Name: CCSupport Battery Fix
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -47,6 +53,8 @@ SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
 SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
 
 Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
 Name: CenterLastRow
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -63,6 +71,8 @@ SHA1: d32018223864b4edccef982ee31232eaa6a49347
 SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
 
 Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
 Name: CenterLastRow
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -79,6 +89,8 @@ SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
 SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
 
 Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
 Name: DuoWall
 Version: 0.0.76-2+debug
 Architecture: iphoneos-arm64
@@ -94,7 +106,27 @@ MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
 SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
 SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
 
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
+Name: Finn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 352
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Size: 14032
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
 Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
 Name: MuteFlash
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm64
@@ -111,6 +143,8 @@ SHA1: 53949c060ba929278272fe45043f4f481430c7a3
 SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
 
 Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
 Name: MuteModule
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm64
@@ -129,6 +163,8 @@ SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
 SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
 
 Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
 Name: NoSeparators
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -145,6 +181,8 @@ SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
 SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
 
 Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
 Name: NoSeparators
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -161,6 +199,8 @@ SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
 SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
 
 Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
 Name: ReRoadRunner
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -176,7 +216,28 @@ MD5sum: 51ea9169f7028d2964c071bce656d954
 SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
 SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
 
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Name: ReSettings
+Version: 0.0.1-44+debug
+Architecture: iphoneos-arm64
+Description: Collapse and expand Settings groups on iOS 15+
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 660
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Size: 83422
+MD5sum: 828947028951d1bd0dae48b2711862bf
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
 Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
 Name: Solert
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -193,6 +254,8 @@ SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
 SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
 
 Package: com.futur3sn0w.swipeformore7
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
 Name: SwipeForMore7
 Version: 1.2.5+ios7.12
 Architecture: iphoneos-arm
@@ -209,6 +272,8 @@ SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
 SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
 
 Package: com.futur3sn0w.taptimeneo
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.taptimenneo.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.taptimenneo.json
 Name: TapTimeNeo
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64
