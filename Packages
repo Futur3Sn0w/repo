@@ -208,3 +208,18 @@ MD5sum: c0a641289b5226171fff1a42952e657f
 SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
 SHA256: 6f30ffe806db82ac2e166f861949e09c501ce8065f0bf4ef35a678b6afd75a62
 
+Package: com.futur3sn0w.finn
+Name: Finn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Installed-Size: 352
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Size: 14032
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
