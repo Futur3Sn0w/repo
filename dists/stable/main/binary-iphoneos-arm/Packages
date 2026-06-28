@@ -1,291 +1,2558 @@
+Section: Tweaks
+Author: futur3sn0w
+Version: 0.0.1-1+debug
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Installed-Size: 64
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Size: 9802
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Section: Tweaks
+Description: Centers the final SpringBoard icon row when it is not full.
 Package: com.futur3sn0w.batterymirror
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
+Installed-Size: 64
+Maintainer: futur3sn0w
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+Name: BatteryMirror
+Size: 9802
+Version: 0.0.3-1+debug
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Author: futur3sn0w
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+Size: 9802
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Package: com.futur3sn0w.batterymirror
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
+Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
+Section: Tweaks
+Package: com.futur3sn0w.batterymirror
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
+Package: com.futur3sn0w.batterymirror
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Name: BatteryMirror
+Maintainer: futur3sn0w
+Installed-Size: 64
+Name: BatteryMirror
 Name: BatteryMirror
 Version: 0.0.3-1+debug
-Architecture: iphoneos-arm64
-Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
-Maintainer: futur3sn0w
 Author: futur3sn0w
+Package: com.futur3sn0w.batterymirror
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm64
+Version: 0.0.3-1+debug
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Architecture: iphoneos-arm64
+Name: BatteryMirror
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
+Architecture: iphoneos-arm64
+Size: 9802
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
 Section: Tweaks
+Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
+Version: 0.0.3-1+debug
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Maintainer: futur3sn0w
+Name: DuoWall
+Installed-Size: 452
+Maintainer: futur3sn0w
+Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+Version: 0.0.76-2+debug
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
+Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Maintainer: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: futur3sn0w
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Maintainer: futur3sn0w
+Size: 36032
+Author: futur3sn0w
+Section: Tweaks
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: futur3sn0w
+Installed-Size: 452
+MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
+Section: Tweaks
+Section: Tweaks
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
+Installed-Size: 1192
+Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
+Section: Tweaks
+Installed-Size: 452
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Size: 36032
+Size: 182598
 Installed-Size: 452
 Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
 Size: 36032
-MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
-SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
-SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
-
-Package: com.futur3sn0w.battfx
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
-Name: BattFX
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 348
-Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
-Size: 18388
-MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
-SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
-SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
-
-Package: com.futur3sn0w.ccsupportbatteryfix
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
-Name: CCSupport Battery Fix
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Section: Tweaks
-Installed-Size: 168
-Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
-Size: 3670
-MD5sum: 8070997b4987c8ba63ef07b330331c25
-SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
-SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
-
 Package: com.futur3sn0w.centerlastrow
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Size: 36032
 Name: CenterLastRow
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Description: Centers the final SpringBoard icon row when it is not full.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: mobilesubstrate
-Section: Tweaks
-Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
-Size: 9802
-MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
-SHA1: d32018223864b4edccef982ee31232eaa6a49347
+SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
+Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
+MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
+MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
+Version: 0.0.1-2+debug
+Size: 36032
 SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
 
 Package: com.futur3sn0w.centerlastrow
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Architecture: iphoneos-arm64
+MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
+SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
 Name: CenterLastRow
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Description: Centers the final SpringBoard icon row when it is not full.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: mobilesubstrate
-Section: Tweaks
-Installed-Size: 64
-Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 9882
-MD5sum: a100acb81ea066a2f6f0a711c598eb6f
-SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
-SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
+Name: CenterLastRow
+SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
 
-Package: com.futur3sn0w.duowall
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
-Name: DuoWall
-Version: 0.0.76-2+debug
-Architecture: iphoneos-arm64
-Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 1192
-Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
-Size: 182598
-MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Description: Centers the final SpringBoard icon row when it is not full.
 SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Version: 0.0.1-2+debug
+Maintainer: futur3sn0w
+Version: 0.0.1-2+debug
+SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
+
+Description: Centers the final SpringBoard icon row when it is not full.
+Depends: mobilesubstrate
+SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
+Description: Centers the final SpringBoard icon row when it is not full.
+SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
+
 SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
 
-Package: com.futur3sn0w.finn
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
-Name: Finn
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
-Maintainer: Futur3Sn0w
-Author: Futur3Sn0w
-Depends: mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
 Section: Tweaks
+SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
+Maintainer: futur3sn0w
+
+Installed-Size: 64
+Author: futur3sn0w
+Author: futur3sn0w
+Depends: mobilesubstrate
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Depends: mobilesubstrate
+Section: Tweaks
+Name: CenterLastRow
+Size: 9882
+SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
+
+Section: Tweaks
+Installed-Size: 64
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Version: 0.0.1-2+debug
+Installed-Size: 64
+Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Name: BattFX
+Name: Finn
+Name: BattFX
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Version: 0.0.4
+Size: 9882
+Description: Centers the final SpringBoard icon row when it is not full.
+Version: 1.0.0
+Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Size: 9882
+Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Version: 0.0.4
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Maintainer: futur3sn0w
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Name: BattFX
+Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
+Name: BattFX
+Architecture: iphoneos-arm64
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Author: futur3sn0w
+Version: 0.0.4
+Version: 0.0.4
+Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
+Maintainer: Futur3Sn0w
+Maintainer: futur3sn0w
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Author: Futur3Sn0w
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.battfx
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
+Author: futur3sn0w
+Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
+Section: Tweaks
+Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
+Depends: mobilesubstrate, preferenceloader
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: futur3sn0w
+Name: BattFX
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Section: Tweaks
+Section: Tweaks
+Installed-Size: 64
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Version: 0.0.4
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Installed-Size: 352
+Author: futur3sn0w
+Author: futur3sn0w
 Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Installed-Size: 348
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Size: 14032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
+Section: Tweaks
+Size: 9882
+Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
+Installed-Size: 348
 MD5sum: 581eef814008516eb8a9d405beea4f2d
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Installed-Size: 348
+Maintainer: futur3sn0w
+Installed-Size: 348
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Size: 18388
+Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
+Author: futur3sn0w
+Size: 18388
+MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
 SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Size: 18388
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Size: 18388
+Section: Tweaks
+MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
+MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Installed-Size: 348
+MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
 SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
+SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+Size: 18388
+SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Name: CustHome
+SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
+MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
+SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
+Version: 0.0.1-79+debug
+SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
 
 Package: com.futur3sn0w.muteflash
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
 Name: MuteFlash
+Name: CustHome
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm64
+Name: CustHome
+Version: 0.0.1-79+debug
+Architecture: iphoneos-arm64
+SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
+
+SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
+
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Version: 0.0.1-79+debug
 Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Architecture: iphoneos-arm64
+SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
+SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
+
 Maintainer: futur3sn0w
+Maintainer: Futur3Sn0w
+Architecture: iphoneos-arm64
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Author: Futur3Sn0w
 Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Installed-Size: 352
+Maintainer: Futur3Sn0w
+Maintainer: Futur3Sn0w
 Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Section: Tweaks
+Installed-Size: 460
+Author: Futur3Sn0w
+Author: Futur3Sn0w
 Size: 11358
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+License: GPL-3.0-or-later
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
+
+Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
+Name: CustHome
+Section: Tweaks
+Size: 65488
+Section: Tweaks
+Name: CCSupport Battery Fix
+Version: 0.0.1-79+debug
+Installed-Size: 460
+Installed-Size: 460
+Version: 0.0.2
+Architecture: iphoneos-arm64
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+License: GPL-3.0-or-later
+License: GPL-3.0-or-later
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
+Maintainer: Futur3Sn0w
+Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
+Size: 65488
+Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
+Size: 65488
+Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
+Author: Futur3Sn0w
+Name: CCSupport Battery Fix
+Name: CCSupport Battery Fix
+Maintainer: futur3sn0w
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Name: CCSupport Battery Fix
 SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Version: 0.0.2
+Version: 0.0.2
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Version: 0.0.2
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Installed-Size: 460
+Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
+Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
+Section: Tweaks
+Maintainer: futur3sn0w
+Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
+License: GPL-3.0-or-later
+Maintainer: futur3sn0w
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Installed-Size: 168
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.ccsupportbatteryfix
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
+Author: futur3sn0w
+Author: futur3sn0w
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Author: futur3sn0w
+Size: 65488
+Name: CCSupport Battery Fix
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Version: 0.0.2
 SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+Section: Tweaks
+
+Section: Tweaks
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Architecture: iphoneos-arm64
+Size: 3670
+Section: Tweaks
+Installed-Size: 168
+Installed-Size: 168
+Description: Fixes status bar battery percentage display when CCSupport is installed on iOS 15+.
+MD5sum: 8070997b4987c8ba63ef07b330331c25
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Installed-Size: 168
+Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
+Maintainer: futur3sn0w
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
+Size: 3670
+Author: futur3sn0w
+Size: 3670
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Size: 3670
+MD5sum: 8070997b4987c8ba63ef07b330331c25
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+MD5sum: 8070997b4987c8ba63ef07b330331c25
+Section: Tweaks
+MD5sum: 8070997b4987c8ba63ef07b330331c25
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Name: MuteModule
+Installed-Size: 168
+Version: 0.0.1-4+debug
+Name: DuoWall
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.ccsupportbatteryfix_0.0.2_iphoneos-arm64.deb
+SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Version: 0.0.76-2+debug
+SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
+SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
+Size: 3670
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
+Architecture: iphoneos-arm64
+SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
+Author: futur3sn0w
+Name: DuoWall
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+MD5sum: 8070997b4987c8ba63ef07b330331c25
+Depends: firmware (>= 15.0), mobilesubstrate
+Version: 0.0.76-2+debug
+Section: Tweaks
+Maintainer: futur3sn0w
+Installed-Size: 172
+Name: DuoWall
+SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
+
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Author: futur3sn0w
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Version: 0.0.76-2+debug
+SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
+
+Size: 7836
+SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
+
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
+
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Architecture: iphoneos-arm64
+Section: Tweaks
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Maintainer: futur3sn0w
+Installed-Size: 1192
+SHA1: 9747136f93ec07e17799249bc1bbd5ad930d23b7
+Maintainer: futur3sn0w
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: futur3sn0w
+Size: 182598
+Section: Tweaks
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Installed-Size: 1192
+Section: Tweaks
+Name: DuoWall
+SHA256: eaf52a96a176e1094e65d8b7b057f97044fcc91166dbdff558fd4a9b1dae7307
+
+Installed-Size: 1192
+Version: 0.0.76-2+debug
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Size: 182598
+Size: 182598
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Name: CenterLastRow
+Name: CenterLastRow
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Maintainer: futur3sn0w
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Version: 0.0.1-1+debug
+Name: CenterLastRow
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Name: CenterLastRow
+Version: 0.0.1-1+debug
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Architecture: iphoneos-arm
+Author: futur3sn0w
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Description: Centers the final SpringBoard icon row when it is not full.
+Architecture: iphoneos-arm
+Architecture: iphoneos-arm
+Description: Centers the final SpringBoard icon row when it is not full.
+Maintainer: futur3sn0w
+Section: Tweaks
+Description: Centers the final SpringBoard icon row when it is not full.
+Description: Centers the final SpringBoard icon row when it is not full.
+Maintainer: futur3sn0w
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Installed-Size: 1192
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Author: futur3sn0w
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Name: CenterLastRow
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Depends: mobilesubstrate
+Author: futur3sn0w
+Depends: mobilesubstrate
+Author: futur3sn0w
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Version: 0.0.1-1+debug
+Size: 182598
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Section: Tweaks
+Depends: mobilesubstrate
+Installed-Size: 64
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Description: Centers the final SpringBoard icon row when it is not full.
+Section: Tweaks
+Installed-Size: 64
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Section: Tweaks
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+Name: NoSeparators
+
+Installed-Size: 64
+Maintainer: futur3sn0w
+Installed-Size: 64
+Version: 0.0.1-1+debug
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9802
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Author: futur3sn0w
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Depends: mobilesubstrate
+Size: 9802
+Size: 9802
+Maintainer: futur3sn0w
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Size: 9802
+Section: Tweaks
+Author: futur3sn0w
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+Section: Tweaks
+Installed-Size: 64
+Installed-Size: 140
+Name: Finn
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-1+debug_iphoneos-arm.deb
+Version: 1.0.0
+Size: 14862
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Size: 9802
+MD5sum: 8764260c2f872847d980417cd104f37e
+Architecture: iphoneos-arm64
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+MD5sum: cf7df773417ee94a2e5a02dff35c5e2c
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
+Maintainer: Futur3Sn0w
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Name: Finn
+Author: Futur3Sn0w
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
+Section: Tweaks
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Architecture: iphoneos-arm64
+Name: Finn
+Installed-Size: 352
+SHA1: d32018223864b4edccef982ee31232eaa6a49347
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Version: 1.0.0
+Maintainer: Futur3Sn0w
+Architecture: iphoneos-arm64
+Size: 14032
+Author: Futur3Sn0w
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Depends: mobilesubstrate, preferenceloader
+SHA256: cc6139985ae950905276ffc19f0cc911b7a51fca0d3b2d0ac1ae8f599fba6886
+
+Name: Finn
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Maintainer: Futur3Sn0w
+Section: Tweaks
+Version: 1.0.0
+Author: Futur3Sn0w
+Installed-Size: 352
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Section: Tweaks
+Name: CenterLastRow
+Name: CenterLastRow
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Installed-Size: 352
+Maintainer: Futur3Sn0w
+Size: 14032
+Name: CenterLastRow
+Version: 0.0.1-2+debug
+Version: 0.0.1-2+debug
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Author: Futur3Sn0w
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Name: CenterLastRow
+Version: 0.0.1-2+debug
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Description: Centers the final SpringBoard icon row when it is not full.
+Size: 14032
+Version: 0.0.1-2+debug
+Description: Centers the final SpringBoard icon row when it is not full.
+Name: NoSeparators
+Section: Tweaks
+Description: Centers the final SpringBoard icon row when it is not full.
+Maintainer: futur3sn0w
+Architecture: iphoneos-arm64
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Version: 0.0.1-2+debug
+Installed-Size: 352
+Maintainer: futur3sn0w
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Maintainer: futur3sn0w
+Description: Centers the final SpringBoard icon row when it is not full.
+Package: com.futur3sn0w.centerlastrow
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.centerlastrow.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.centerlastrow.json
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Author: futur3sn0w
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Name: CenterLastRow
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Depends: mobilesubstrate
+Depends: mobilesubstrate
+Depends: mobilesubstrate
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Size: 14032
+Section: Tweaks
+Version: 0.0.1-2+debug
+Section: Tweaks
+Author: futur3sn0w
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Installed-Size: 64
+Installed-Size: 64
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Installed-Size: 64
+Section: Tweaks
+Description: Centers the final SpringBoard icon row when it is not full.
+Section: Tweaks
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Installed-Size: 64
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Installed-Size: 140
+Size: 9882
+Maintainer: futur3sn0w
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 9882
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 9882
+Size: 9882
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Author: futur3sn0w
+Size: 14946
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Depends: mobilesubstrate
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+MD5sum: e5602cc766204c64415b5891e5d4933b
+Section: Tweaks
+Name: MuteFlash
+Installed-Size: 64
+Version: 0.0.1-9+debug
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Filename: debs/com.futur3sn0w.centerlastrow_0.0.1-2+debug_iphoneos-arm64.deb
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Architecture: iphoneos-arm64
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Size: 9882
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Maintainer: futur3sn0w
+Name: MuteFlash
+MD5sum: a100acb81ea066a2f6f0a711c598eb6f
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Author: futur3sn0w
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Version: 0.0.1-9+debug
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Name: MuteFlash
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Architecture: iphoneos-arm64
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+
+Section: Tweaks
+Version: 0.0.1-9+debug
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Architecture: iphoneos-arm64
+Installed-Size: 352
+Maintainer: futur3sn0w
+SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+Maintainer: futur3sn0w
+Size: 11358
+Name: ReRoadRunner
+Section: Tweaks
+Author: futur3sn0w
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Version: 0.0.1
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Architecture: iphoneos-arm64
+SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
+Installed-Size: 352
+
+Section: Tweaks
+Name: MuteFlash
+Description: Keep apps alive through resprings
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Installed-Size: 352
+Maintainer: futur3sn0w
+Version: 0.0.1-9+debug
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Size: 11358
+Name: CustHome
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Name: CustHome
+Name: CustHome
+Name: CustHome
+Size: 11358
+Version: 0.0.1-79+debug
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Section: Tweaks
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Version: 0.0.1-79+debug
+Version: 0.0.1-79+debug
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Installed-Size: 412
+Architecture: iphoneos-arm64
+Version: 0.0.1-79+debug
+Maintainer: futur3sn0w
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Author: futur3sn0w
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Size: 46834
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Maintainer: Futur3Sn0w
+Maintainer: Futur3Sn0w
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Maintainer: Futur3Sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Maintainer: Futur3Sn0w
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Author: Futur3Sn0w
+Section: Tweaks
+Author: Futur3Sn0w
+Author: Futur3Sn0w
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Author: Futur3Sn0w
+Package: com.futur3sn0w.custhome
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Section: Tweaks
+Section: Tweaks
+Name: CustHome
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Section: Tweaks
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Section: Tweaks
+Installed-Size: 460
+Installed-Size: 460
+Installed-Size: 460
+Version: 0.0.1-79+debug
+Size: 11358
+Installed-Size: 460
+License: GPL-3.0-or-later
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+License: GPL-3.0-or-later
+License: GPL-3.0-or-later
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
+License: GPL-3.0-or-later
+Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Size: 65488
+Size: 65488
+Size: 65488
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Maintainer: Futur3Sn0w
+Size: 65488
+MD5sum: e2e073f4c7e8550970da747e084f1261
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Author: Futur3Sn0w
+MD5sum: e2e073f4c7e8550970da747e084f1261
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Section: Tweaks
+Name: MuteModule
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Installed-Size: 460
+Version: 0.0.1-4+debug
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Architecture: iphoneos-arm64
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+License: GPL-3.0-or-later
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Filename: debs/com.futur3sn0w.custhome_0.0.1-79+debug_iphoneos-arm64.deb
+Name: ReSettings
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
+Version: 0.0.1-44+debug
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Size: 65488
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Architecture: iphoneos-arm64
+Maintainer: futur3sn0w
+MD5sum: e2e073f4c7e8550970da747e084f1261
+Description: Collapse and expand Settings groups on iOS 15+
+Name: MuteModule
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Author: futur3sn0w
+Maintainer: futur3sn0w
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
 
 Package: com.futur3sn0w.mutemodule
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
-Name: MuteModule
-Version: 0.0.1-4+debug
-Architecture: iphoneos-arm64
-Description: Exposes Apple's hidden Control Center mute module on iPhone.
-Maintainer: futur3sn0w
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
 Author: futur3sn0w
+Version: 0.0.1-4+debug
+Depends: mobilesubstrate, preferenceloader
 Depends: firmware (>= 15.0), mobilesubstrate
+Name: MuteModule
 Section: Tweaks
+Architecture: iphoneos-arm64
+Installed-Size: 660
+Section: Tweaks
+Version: 0.0.1-4+debug
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+SHA1: ea9e52a925d2aab58e99833e4212e02daac04c1b
 Installed-Size: 172
+Size: 83422
+Architecture: iphoneos-arm64
 Conflicts: com.futur3sn0w.mutecontroltoggle
 Replaces: com.futur3sn0w.mutecontroltoggle
 Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+MD5sum: 828947028951d1bd0dae48b2711862bf
 Size: 7836
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Author: futur3sn0w
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+SHA256: 17ebc849a55711a9fd8b08dbadd466134f0c4cb6d03f72b9af7c107f2098f777
+
+Depends: firmware (>= 15.0), mobilesubstrate
+Depends: firmware (>= 15.0), mobilesubstrate
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Section: Tweaks
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Section: Tweaks
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Name: MuteModule
+Installed-Size: 172
+Installed-Size: 172
+Name: DuoWall
+Name: DuoWall
+Version: 0.0.1-4+debug
+Name: DuoWall
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Version: 0.0.76-2+debug
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Version: 0.0.76-2+debug
+Version: 0.0.76-2+debug
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Size: 7836
+Size: 7836
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+Name: DuoWall
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
 MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
 SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Maintainer: futur3sn0w
+Version: 0.0.76-2+debug
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Author: futur3sn0w
+Package: com.futur3sn0w.duowall
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.duowall.json
+Depends: firmware (>= 15.0), mobilesubstrate
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Name: DuoWall
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Section: Tweaks
+Installed-Size: 172
+Section: Tweaks
+Section: Tweaks
+Version: 0.0.76-2+debug
+Author: futur3sn0w
+Installed-Size: 1192
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Installed-Size: 1192
+Installed-Size: 1192
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Size: 7836
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Description: Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.
+Name: Solert
+Size: 182598
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Section: Tweaks
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Version: 0.0.1-1+debug
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Size: 182598
+Maintainer: futur3sn0w
+Installed-Size: 1192
+Size: 182598
+Architecture: iphoneos-arm64
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Author: futur3sn0w
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Size: 182598
+Section: Tweaks
+Depends: firmware (>= 15.0)
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Section: Tweaks
+Installed-Size: 1192
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+Installed-Size: 244
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.duowall_0.0.76-2+debug_iphoneos-arm64.deb
+Name: NoSeparators
+Size: 25040
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Version: 0.0.1-1+debug
+Size: 182598
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Architecture: iphoneos-arm
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+MD5sum: 6e227b6a95d25dc84ee6716fa10ce315
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+Name: NoSeparators
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Version: 0.0.1-1+debug
+Maintainer: futur3sn0w
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Architecture: iphoneos-arm
+Author: futur3sn0w
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Name: NoSeparators
+Maintainer: futur3sn0w
+Section: Tweaks
+Version: 0.0.1-1+debug
+SHA1: 5a5126d44b00c73af3e8a69325e34bbbad277c04
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Installed-Size: 140
+Author: futur3sn0w
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Section: Tweaks
+Size: 14862
+Maintainer: futur3sn0w
+Installed-Size: 140
+SHA256: 6734b499a4141040998b8457eedc85ce14926b20f959003c4acdf1541ad7ccdb
+
+Author: futur3sn0w
+MD5sum: 8764260c2f872847d980417cd104f37e
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Name: NoSeparators
+Name: Finn
+Size: 14862
+Version: 1.0.0
+Section: Tweaks
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Version: 0.0.1-1+debug
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Installed-Size: 140
+Architecture: iphoneos-arm64
+MD5sum: 8764260c2f872847d980417cd104f37e
+Name: Finn
+Name: Finn
+Architecture: iphoneos-arm
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Version: 1.0.0
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Package: com.futur3sn0w.swipeformore7
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Version: 1.0.0
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Maintainer: Futur3Sn0w
+Architecture: iphoneos-arm64
+Name: SwipeForMore7
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Size: 14862
+Name: Finn
+Architecture: iphoneos-arm64
+Author: Futur3Sn0w
+Maintainer: futur3sn0w
+Version: 1.2.5+ios7.12
+MD5sum: 8764260c2f872847d980417cd104f37e
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Description: Manage packages in Cydia via swipe.
+Author: futur3sn0w
+Maintainer: Futur3Sn0w
+Maintainer: Futur3Sn0w
+Architecture: iphoneos-arm64
+Section: Tweaks
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Maintainer: Futur3Sn0w
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.finn
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Author: Futur3Sn0w
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Author: Futur3Sn0w
+Author: Futur3Sn0w
+Installed-Size: 352
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Name: Finn
+Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
+Maintainer: Futur3Sn0w
+Section: Tweaks
+Section: Tweaks
+Version: 1.0.0
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Section: Tweaks
+Installed-Size: 180
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Section: Tweaks
+Author: Futur3Sn0w
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Installed-Size: 140
+Architecture: iphoneos-arm64
+Size: 14032
+Installed-Size: 352
+Installed-Size: 352
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Depends: mobilesubstrate, preferenceloader
+Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
+Size: 42772
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+Section: Tweaks
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Maintainer: Futur3Sn0w
+Installed-Size: 352
+Size: 14032
+Size: 14862
+Author: Futur3Sn0w
+Size: 14032
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+Depends: mobilesubstrate, preferenceloader
+MD5sum: 8764260c2f872847d980417cd104f37e
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Section: Tweaks
+Size: 14032
+Installed-Size: 352
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
+
+Size: 14032
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+MD5sum: 581eef814008516eb8a9d405beea4f2d
+Name: NoSeparators
+Name: NoSeparators
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Version: 0.0.1-2+debug
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Name: NoSeparators
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.taptimeneo
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.taptimenneo.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.taptimenneo.json
+Version: 0.0.1-2+debug
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Author: futur3sn0w
+Name: TapTimeNeo
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Version: 0.0.1-7+debug
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Architecture: iphoneos-arm64
+SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
+Description: Tap the status bar clock to briefly show the date on iOS 15+.
+Maintainer: futur3sn0w
+Section: Tweaks
+Section: Tweaks
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Installed-Size: 140
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Installed-Size: 140
+Author: futur3sn0w
+Name: MuteFlash
+Depends: firmware (>= 15.0)
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Version: 0.0.1-9+debug
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Section: Tweaks
+Section: Tweaks
+Installed-Size: 232
+Name: MuteFlash
+Architecture: iphoneos-arm64
+Size: 14946
+Size: 14946
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+
+Installed-Size: 140
+Filename: debs/com.futur3sn0w.taptimeneo_0.0.1-7+debug_iphoneos-arm64.deb
+Version: 0.0.1-9+debug
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Name: NoSeparators
+MD5sum: e5602cc766204c64415b5891e5d4933b
+MD5sum: e5602cc766204c64415b5891e5d4933b
+Name: MuteFlash
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 18800
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Maintainer: futur3sn0w
+Architecture: iphoneos-arm64
+Version: 0.0.1-2+debug
+MD5sum: c0a641289b5226171fff1a42952e657f
+Version: 0.0.1-9+debug
+Size: 14946
+Name: MuteFlash
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Architecture: iphoneos-arm64
+Version: 0.0.1-9+debug
+MD5sum: e5602cc766204c64415b5891e5d4933b
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Maintainer: futur3sn0w
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: futur3sn0w
+Author: futur3sn0w
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Maintainer: futur3sn0w
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Author: futur3sn0w
+Installed-Size: 352
+SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Section: Tweaks
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+Installed-Size: 352
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Section: Tweaks
+Package: com.futur3sn0w.muteflash
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
+Section: Tweaks
+Section: Tweaks
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Size: 11358
+Installed-Size: 352
+Name: MuteFlash
+Installed-Size: 140
+Installed-Size: 352
+SHA256: 6f30ffe806db82ac2e166f861949e09c501ce8065f0bf4ef35a678b6afd75a62
+
+Size: 11358
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Version: 0.0.1-9+debug
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Size: 11358
+Size: 14946
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Description: Use the ringer switch as a flashlight toggle without changing silent mode.
+Size: 11358
+Maintainer: futur3sn0w
+MD5sum: e5602cc766204c64415b5891e5d4933b
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Section: Tweaks
+Installed-Size: 352
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Name: ReRoadRunner
+Name: ReRoadRunner
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Size: 11358
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Version: 0.0.1
+Version: 0.0.1
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64
+Name: ReRoadRunner
+Description: Keep apps alive through resprings
+Description: Keep apps alive through resprings
+Maintainer: futur3sn0w
+Version: 0.0.1
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Maintainer: futur3sn0w
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Description: Keep apps alive through resprings
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
+SHA1: 53949c060ba929278272fe45043f4f481430c7a3
+Section: Tweaks
+Author: futur3sn0w
+Section: Tweaks
+Installed-Size: 412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Installed-Size: 412
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Section: Tweaks
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Size: 46834
+Installed-Size: 412
+Name: MuteModule
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+
+Size: 46834
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Version: 0.0.1-4+debug
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Name: MuteModule
+Name: MuteModule
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Version: 0.0.1-4+debug
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+Size: 46834
+Architecture: iphoneos-arm64
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm64
+Name: MuteModule
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Name: ReRoadRunner
+Architecture: iphoneos-arm64
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Maintainer: futur3sn0w
+MD5sum: 51ea9169f7028d2964c071bce656d954
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Version: 0.0.1-4+debug
+Version: 0.0.1
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Maintainer: futur3sn0w
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate
+Description: Keep apps alive through resprings
+Author: futur3sn0w
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Depends: firmware (>= 15.0), mobilesubstrate
+Section: Tweaks
+Maintainer: futur3sn0w
+Depends: firmware (>= 15.0), mobilesubstrate
+Maintainer: futur3sn0w
+Installed-Size: 172
+Section: Tweaks
+Package: com.futur3sn0w.mutemodule
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.mutemodule.json
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Author: futur3sn0w
+Section: Tweaks
+Installed-Size: 172
+Author: futur3sn0w
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Name: MuteModule
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Installed-Size: 172
+Size: 7836
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Depends: firmware (>= 15.0), mobilesubstrate
+Version: 0.0.1-4+debug
+Section: Tweaks
+Size: 7836
+Section: Tweaks
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Architecture: iphoneos-arm64
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Installed-Size: 412
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Installed-Size: 172
+Size: 7836
+Description: Exposes Apple's hidden Control Center mute module on iPhone.
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Maintainer: futur3sn0w
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Author: futur3sn0w
+Size: 7836
+Size: 46834
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Depends: firmware (>= 15.0), mobilesubstrate
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Section: Tweaks
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Name: ReSettings
+Name: ReSettings
+Installed-Size: 172
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Version: 0.0.1-44+debug
+Version: 0.0.1-44+debug
+Conflicts: com.futur3sn0w.mutecontroltoggle
+Replaces: com.futur3sn0w.mutecontroltoggle
+Filename: debs/com.futur3sn0w.mutemodule_0.0.1-4+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Architecture: iphoneos-arm64
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Description: Collapse and expand Settings groups on iOS 15+
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Size: 7836
+Description: Collapse and expand Settings groups on iOS 15+
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Maintainer: futur3sn0w
+MD5sum: e40ca0a8cc6f9249ac100c9ae8a11078
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Maintainer: futur3sn0w
+Author: futur3sn0w
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Author: futur3sn0w
+Name: ReSettings
+Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
+SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
+
+Version: 0.0.1-44+debug
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Section: Tweaks
+Section: Tweaks
+Installed-Size: 660
+Architecture: iphoneos-arm64
+SHA1: 055a9e259b1b55ee1f1d40935cec08cc092e83e4
+Installed-Size: 660
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Description: Collapse and expand Settings groups on iOS 15+
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Maintainer: futur3sn0w
+Size: 83422
+Size: 83422
+Name: NoSeparators
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Author: futur3sn0w
+MD5sum: 828947028951d1bd0dae48b2711862bf
+MD5sum: 828947028951d1bd0dae48b2711862bf
+Version: 0.0.1-1+debug
+Name: NoSeparators
+Depends: mobilesubstrate, preferenceloader
 SHA256: 6f165500e63ad65d8fada39ecfa5f8a83ad07d7c27bdc04976b6cc9fa4024d51
 
 Package: com.futur3sn0w.noseparators
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
-Name: NoSeparators
-Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
-Description: Hide common UIKit separator lines systemwide on iOS 11.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Version: 0.0.1-1+debug
 Section: Tweaks
-Installed-Size: 140
-Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
-Size: 14862
-MD5sum: 8764260c2f872847d980417cd104f37e
-SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
-SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
-
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Name: NoSeparators
+Architecture: iphoneos-arm
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Maintainer: futur3sn0w
+Installed-Size: 660
+Version: 0.0.1-1+debug
 Package: com.futur3sn0w.noseparators
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
-Name: NoSeparators
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
 Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Firmware: >= 15.0
+Name: NoSeparators
+Name: ReSettings
+Author: futur3sn0w
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm
 Maintainer: futur3sn0w
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Version: 0.0.1-44+debug
+Version: 0.0.1-1+debug
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Author: futur3sn0w
+Size: 83422
+Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
+MD5sum: 828947028951d1bd0dae48b2711862bf
+Description: Collapse and expand Settings groups on iOS 15+
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+Installed-Size: 140
+Section: Tweaks
+Author: futur3sn0w
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Installed-Size: 140
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
 Author: futur3sn0w
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 140
-Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 14946
-MD5sum: e5602cc766204c64415b5891e5d4933b
-SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
-SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
-
-Package: com.futur3sn0w.reroadrunner
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
-Name: ReRoadRunner
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Description: Keep apps alive through resprings
-Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 412
-Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
-Size: 46834
-MD5sum: 51ea9169f7028d2964c071bce656d954
-SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
-SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
 
-Package: com.futur3sn0w.resettings
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
-Name: ReSettings
-Version: 0.0.1-44+debug
-Architecture: iphoneos-arm64
-Description: Collapse and expand Settings groups on iOS 15+
-Maintainer: futur3sn0w
-Author: futur3sn0w
 Depends: mobilesubstrate, preferenceloader
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
 Section: Tweaks
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Size: 14862
+Section: Tweaks
+Name: NoSeparators
+Section: Tweaks
+MD5sum: 8764260c2f872847d980417cd104f37e
+Installed-Size: 140
+Size: 14862
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Version: 0.0.1-1+debug
+Installed-Size: 140
 Installed-Size: 660
+MD5sum: 8764260c2f872847d980417cd104f37e
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
 Firmware: >= 15.0
 Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm
+Size: 14862
 Size: 83422
+Size: 14862
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+MD5sum: 8764260c2f872847d980417cd104f37e
+MD5sum: 8764260c2f872847d980417cd104f37e
+Maintainer: futur3sn0w
 MD5sum: 828947028951d1bd0dae48b2711862bf
-SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
 SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
 
 Package: com.futur3sn0w.solert
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
+Author: futur3sn0w
+Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
+Name: Solert
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Name: Solert
 Version: 0.0.1-1+debug
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Section: Tweaks
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+Architecture: iphoneos-arm64
+
+Installed-Size: 140
 Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
+Maintainer: futur3sn0w
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
 Maintainer: futur3sn0w
 Author: futur3sn0w
+Size: 14862
+Author: futur3sn0w
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Depends: firmware (>= 15.0)
+MD5sum: 8764260c2f872847d980417cd104f37e
 Depends: firmware (>= 15.0)
 Section: Tweaks
+Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
 Installed-Size: 244
+Section: Tweaks
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Name: Solert
 Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Installed-Size: 244
+Version: 0.0.1-1+debug
 Size: 25040
+Architecture: iphoneos-arm64
+SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Name: NoSeparators
 MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Size: 25040
+Maintainer: futur3sn0w
+Version: 0.0.1-2+debug
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Name: NoSeparators
+Depends: firmware (>= 15.0)
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Maintainer: futur3sn0w
+Section: Tweaks
+Version: 0.0.1-2+debug
+Name: NoSeparators
+SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+
+Author: futur3sn0w
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Installed-Size: 244
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
 SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Name: NoSeparators
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Architecture: iphoneos-arm64
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Version: 0.0.1-2+debug
+Section: Tweaks
+Size: 25040
+Maintainer: futur3sn0w
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Installed-Size: 140
+Author: futur3sn0w
+Name: Solert
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Architecture: iphoneos-arm64
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Maintainer: futur3sn0w
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Version: 0.0.1-1+debug
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+Author: futur3sn0w
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Size: 14946
+Installed-Size: 140
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Author: futur3sn0w
+Section: Tweaks
+MD5sum: e5602cc766204c64415b5891e5d4933b
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Installed-Size: 140
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.noseparators
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
+Size: 14946
+Name: NoSeparators
+Author: futur3sn0w
+Section: Tweaks
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Version: 0.0.1-2+debug
+Depends: firmware (>= 15.0)
+MD5sum: e5602cc766204c64415b5891e5d4933b
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Installed-Size: 140
+Section: Tweaks
+Size: 14946
+Architecture: iphoneos-arm64
 SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
 
 Package: com.futur3sn0w.swipeformore7
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Description: Hide common UIKit separator lines systemwide on iOS 11.
+MD5sum: e5602cc766204c64415b5891e5d4933b
 Name: SwipeForMore7
+Installed-Size: 244
+Maintainer: futur3sn0w
 Version: 1.2.5+ios7.12
+Size: 14946
 Architecture: iphoneos-arm
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
 Description: Manage packages in Cydia via swipe.
+Author: futur3sn0w
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+MD5sum: e5602cc766204c64415b5891e5d4933b
+
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Maintainer: Futur3Sn0w
-Author: Futur3Sn0w
-Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Size: 25040
+Package: com.futur3sn0w.swipeformore7
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
 Section: Tweaks
+Author: Futur3Sn0w
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+Name: SwipeForMore7
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Installed-Size: 140
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Version: 1.2.5+ios7.12
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Filename: debs/com.futur3sn0w.noseparators_0.0.1-2+debug_iphoneos-arm64.deb
+Section: Tweaks
+Architecture: iphoneos-arm
+Package: com.futur3sn0w.swipeformore7
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
+Size: 14946
 Installed-Size: 180
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Description: Manage packages in Cydia via swipe.
+Name: SwipeForMore7
+MD5sum: e5602cc766204c64415b5891e5d4933b
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Maintainer: Futur3Sn0w
+Version: 1.2.5+ios7.12
 Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
 Size: 42772
+Architecture: iphoneos-arm
+Author: Futur3Sn0w
+Name: ReRoadRunner
 MD5sum: e6b9305d45ce0428cdfdc67586995e24
+Description: Manage packages in Cydia via swipe.
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Version: 0.0.1
+Maintainer: Futur3Sn0w
+Section: Tweaks
+Author: Futur3Sn0w
+Installed-Size: 180
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+Description: Keep apps alive through resprings
+Name: ReRoadRunner
 SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+Section: Tweaks
+Maintainer: futur3sn0w
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+Size: 42772
+Version: 0.0.1
+Installed-Size: 180
+SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
+
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Name: ReRoadRunner
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+Description: Keep apps alive through resprings
+Version: 0.0.1
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
+Size: 42772
+Maintainer: futur3sn0w
+Section: Tweaks
+Architecture: iphoneos-arm64
 SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
 
+Name: ReRoadRunner
+Author: futur3sn0w
+Installed-Size: 412
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+Package: com.futur3sn0w.swipeformore7
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
+Description: Keep apps alive through resprings
+Version: 0.0.1
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Maintainer: futur3sn0w
+Name: SwipeForMore7
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.2.5+ios7.12
+Author: futur3sn0w
+Size: 46834
+Description: Keep apps alive through resprings
+Installed-Size: 412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Maintainer: futur3sn0w
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Package: com.futur3sn0w.reroadrunner
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.swipeformore7.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.swipeformore7.json
+Section: Tweaks
+Description: Manage packages in Cydia via swipe.
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+Size: 46834
+Author: futur3sn0w
+Name: ReRoadRunner
+Maintainer: Futur3Sn0w
+Installed-Size: 412
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
+
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Version: 0.0.1
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: Futur3Sn0w
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
 Package: com.futur3sn0w.taptimeneo
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.taptimenneo.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.taptimenneo.json
-Name: TapTimeNeo
-Version: 0.0.1-7+debug
-Architecture: iphoneos-arm64
-Description: Tap the status bar clock to briefly show the date on iOS 15+.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 15.0)
 Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Size: 46834
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Name: TapTimeNeo
+Description: Keep apps alive through resprings
+Installed-Size: 412
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
+
+Section: Tweaks
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Maintainer: futur3sn0w
+Version: 0.0.1-7+debug
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Installed-Size: 180
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+Size: 46834
+Filename: debs/com.futur3sn0w.swipeformore7_1.2.5+ios7.12_iphoneos-arm.deb
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Description: Tap the status bar clock to briefly show the date on iOS 15+.
+MD5sum: 51ea9169f7028d2964c071bce656d954
+Size: 42772
+Section: Tweaks
+Maintainer: futur3sn0w
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Package: com.futur3sn0w.taptimeneo
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.taptimenneo.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.taptimenneo.json
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+MD5sum: e6b9305d45ce0428cdfdc67586995e24
+Author: futur3sn0w
+Installed-Size: 412
+Name: TapTimeNeo
+Depends: firmware (>= 15.0)
+Version: 0.0.1-7+debug
+Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
+Section: Tweaks
+Architecture: iphoneos-arm64
+Size: 46834
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Package: com.futur3sn0w.taptimeneo
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.taptimenneo.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.taptimenneo.json
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
 Installed-Size: 232
+Description: Tap the status bar clock to briefly show the date on iOS 15+.
+SHA1: 2eb9b0c741c411bbdd83fcd5a3b80829d14b3fb0
+Name: TapTimeNeo
+MD5sum: 51ea9169f7028d2964c071bce656d954
 Filename: debs/com.futur3sn0w.taptimeneo_0.0.1-7+debug_iphoneos-arm64.deb
+Maintainer: futur3sn0w
+Version: 0.0.1-7+debug
+Author: futur3sn0w
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
 Size: 18800
+Architecture: iphoneos-arm64
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Depends: firmware (>= 15.0)
+SHA256: 79128c19efa000d476d3e4c8ac50f8e5c4b25c02d52b06da7db0222b73fabf33
+
+Name: ReSettings
 MD5sum: c0a641289b5226171fff1a42952e657f
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Description: Tap the status bar clock to briefly show the date on iOS 15+.
+Section: Tweaks
+SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
+Version: 0.0.1-44+debug
+Name: ReSettings
+Installed-Size: 232
+Maintainer: futur3sn0w
+Version: 0.0.1-44+debug
+Architecture: iphoneos-arm64
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Filename: debs/com.futur3sn0w.taptimeneo_0.0.1-7+debug_iphoneos-arm64.deb
+Author: futur3sn0w
+Architecture: iphoneos-arm64
+SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
+
+Description: Collapse and expand Settings groups on iOS 15+
+Depends: firmware (>= 15.0)
+Name: ReSettings
+Description: Collapse and expand Settings groups on iOS 15+
+Size: 18800
 SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
+Section: Tweaks
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Version: 0.0.1-44+debug
+Installed-Size: 232
+Author: futur3sn0w
+MD5sum: c0a641289b5226171fff1a42952e657f
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.futur3sn0w.taptimeneo_0.0.1-7+debug_iphoneos-arm64.deb
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Depends: mobilesubstrate, preferenceloader
+Description: Collapse and expand Settings groups on iOS 15+
+Section: Tweaks
+Name: ReSettings
+Size: 18800
+Package: com.futur3sn0w.taptimeneo
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Section: Tweaks
+Version: 0.0.1-44+debug
 SHA256: 6f30ffe806db82ac2e166f861949e09c501ce8065f0bf4ef35a678b6afd75a62
 
+Installed-Size: 660
+SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
+Maintainer: futur3sn0w
+MD5sum: c0a641289b5226171fff1a42952e657f
+Firmware: >= 15.0
+Author: futur3sn0w
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Architecture: iphoneos-arm64
+Installed-Size: 660
+Name: TapTimeNeo
+Depends: mobilesubstrate, preferenceloader
+Description: Collapse and expand Settings groups on iOS 15+
+Version: 0.0.1-7+debug
+Size: 83422
+Section: Tweaks
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Maintainer: futur3sn0w
+Installed-Size: 660
+Architecture: iphoneos-arm64
+Author: futur3sn0w
+MD5sum: 828947028951d1bd0dae48b2711862bf
+Size: 83422
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Description: Tap the status bar clock to briefly show the date on iOS 15+.
+Package: com.futur3sn0w.resettings
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
+Depends: mobilesubstrate, preferenceloader
+MD5sum: 828947028951d1bd0dae48b2711862bf
+SHA256: 6f30ffe806db82ac2e166f861949e09c501ce8065f0bf4ef35a678b6afd75a62
+
+Section: Tweaks
+Maintainer: futur3sn0w
+Size: 83422
+SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
+Name: ReSettings
+Author: futur3sn0w
+MD5sum: 828947028951d1bd0dae48b2711862bf
+Installed-Size: 660
+Depends: firmware (>= 15.0)
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Version: 0.0.1-44+debug
+Firmware: >= 15.0
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+Section: Tweaks
+Architecture: iphoneos-arm64
+SHA256: 6f30ffe806db82ac2e166f861949e09c501ce8065f0bf4ef35a678b6afd75a62
+
+Description: Collapse and expand Settings groups on iOS 15+
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Maintainer: futur3sn0w
+Installed-Size: 232
+MD5sum: 828947028951d1bd0dae48b2711862bf
+Author: futur3sn0w
+Filename: debs/com.futur3sn0w.taptimeneo_0.0.1-7+debug_iphoneos-arm64.deb
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+Depends: mobilesubstrate, preferenceloader
+Size: 18800
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+Section: Tweaks
+
+MD5sum: c0a641289b5226171fff1a42952e657f
+SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
+Installed-Size: 660
+Firmware: >= 15.0
+Filename: debs/com.futur3sn0w.resettings_0.0.1-44+debug_iphoneos-arm64.deb
+SHA1: 3f1d40acdf837da2eb11d097f44b47b8ec426a83
+Architecture: iphoneos-arm64
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Architecture: iphoneos-arm64
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Maintainer: futur3sn0w
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Package: com.futur3sn0w.solert
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.solert.json
+Maintainer: futur3sn0w
+Maintainer: futur3sn0w
+Author: futur3sn0w
+SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+Author: futur3sn0w
+Name: Solert
+Depends: firmware (>= 15.0)
+Depends: firmware (>= 15.0)
+Author: futur3sn0w
+Version: 0.0.1-1+debug
+Depends: firmware (>= 15.0)
+Section: Tweaks
+Section: Tweaks
+Architecture: iphoneos-arm64
+Section: Tweaks
+Installed-Size: 244
+Installed-Size: 244
+Installed-Size: 244
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Maintainer: futur3sn0w
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 25040
+Author: futur3sn0w
+Size: 25040
+Size: 25040
+Depends: firmware (>= 15.0)
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Section: Tweaks
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Installed-Size: 244
+Package: com.futur3sn0w.solert
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Name: Solert
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Size: 25040
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Description: iOS 26-inspired UIAlertController restyling for iOS 15.
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Maintainer: futur3sn0w
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+Author: futur3sn0w
+Depends: firmware (>= 15.0)
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Section: Tweaks
+Installed-Size: 244
+Filename: debs/com.futur3sn0w.solert_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 25040
+SHA256: 3ee4b3d9eefef7ac9282d3f4d6d209fbee5a04e93a7cadb896e739dad575e54a
+
+MD5sum: 399c6555e0b253af6706f3b43d2b45f4
+Package: com.futur3sn0w.swipeformore7
+Package: com.futur3sn0w.swipeformore7
+Package: com.futur3sn0w.swipeformore7
+Name: SwipeForMore7
+Version: 1.2.5+ios7.12
+Name: SwipeForMore7
+Name: SwipeForMore7
+Version: 1.2.5+ios7.12
+Architecture: iphoneos-arm
+Version: 1.2.5+ios7.12
+Architecture: iphoneos-arm
+Description: Manage packages in Cydia via swipe.
+SHA1: 54ef83daf8c283bd945827e4c9b2f68cf1779b62
+Architecture: iphoneos-arm
+Description: Manage packages in Cydia via swipe.
+Maintainer: Futur3Sn0w
+Description: Manage packages in Cydia via swipe.
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Maintainer: Futur3Sn0w
+Author: Futur3Sn0w
+Depends: firmware (>= 7.0), firmware (<= 7.1.7), mobilesubstrate, preferenceloader
+Package: com.futur3sn0w.swipeformore7
+Author: Futur3Sn0w

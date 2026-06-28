@@ -6,12 +6,48 @@ Codename: ios
 Components: main
 Description: Futur3Sn0w jailbreak tweaks.
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 MD5Sum:
- 2c2f22dbc3b6ce0e37471b46df5e8812            11804 Packages
- c4ecb1f7c1e50f0145deca8cdad58ab6             3158 Packages.gz
+ e912bf6f761de81b077dea9a1342d953            67706 Packages
+ 83f4535d7f8fea944273e43fff738510             6397 Packages.gz
 SHA1:
- 77c05dd44fe3e6f06df6242e105d565408160734            11804 Packages
- ebd394f2c89ccd6724fe625dee47d532dab2db6a             3158 Packages.gz
+ 5ae425d4cb714d1c1bdb6897ba43e3df6ba89d1f            68473 Packages
+ 843a73f5b00aa629432efbddf34160052f765302             6397 Packages.gz
 SHA256:
- bb633bc1d4b3cd6286b42347b3334dceb36c55fccbbb5a2147a03e81cc0d501b            11804 Packages
- 22c8be50e240706f8c184e3644f5bd2dbeeb50145bacccdf5eaf8352603eac7c             3158 Packages.gz
+ 57a2805e89e45c31138f1452ac22a0f9d823408aa3207f37f08fed13c3a6ad73            69837 Packages
+ dda639b17f38f17ccd03dbf35d7cbcf2b7f620422b43addc44607290b3def64f             6397 Packages.gz
+MD5Sum:
+ 08643359a658b3c6a3c28e822d1a3f2f            99394 Packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e             8067 Packages.gz
+SHA1:
+ 84bc86cb1ddcc2f18c0c390fd7d91d73            99612 Packages
+ 0c088e695c753c560127bf54be3a5e15             8067 Packages.gz
+SHA1:
+ 357c7a269ad0be4de1805eb8b01b75aea2b29f6a            99860 Packages
+ ef820b192c3e0bf1d459bb5f822542570133680a            99740 Packages
+MD5Sum:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709             8082 Packages.gz
+SHA256:
+ e2206c1596d9c225c220c13aefc2a79c           100188 Packages
+MD5Sum:
+ a06c5976f83b3c2ca2aa32659a42a193d0dfc0d3             8119 Packages.gz
+SHA256:
+ 4b321ffe7deb83c16bb0d3b48b07cafb054e13c017143cc1c2d27552edaffd05           100564 Packages
+ d41d8cd98f00b204e9800998ecf8427e             8119 Packages.gz
+SHA1:
+ 6f3b6e4269c7cb9987096db316875894           100693 Packages
+ c3e902d306a47e9e3e1913f202f35573             8119 Packages.gz
+SHA1:
+ 91de77601166fb005068adb945579b1fe3d90826705f576081accb758815464b           101050 Packages
+ 09ebab0a47de1a495e1a063fd82b5f294f53a5ff7792b714c9243bfb001cde8e             8119 Packages.gz
+ 15151c17c39f1d006414564e71c45830851ead86           101168 Packages
+ 09ebab0a47de1a495e1a063fd82b5f294f53a5ff7792b714c9243bfb001cde8e             8119 Packages.gz
+ f8925775a8457c3d0ba2c1864351e0081a8f2fdf           101458 Packages
+ 44cd9067aa8b29f21fbe250117f561d82468995b             8119 Packages.gz
+SHA256:
+ 44cd9067aa8b29f21fbe250117f561d82468995b             8119 Packages.gz
+SHA256:
+ 07da8d5e72f983d1e273cc6948cb8bc9bf32b8f23c3c48148d4037025b673bf2           101972 Packages
+ b042a8ccd1606cc83780830e7d92b91e5895ae773bcce750142fa8bebb234733           102207 Packages
+ 09ebab0a47de1a495e1a063fd82b5f294f53a5ff7792b714c9243bfb001cde8e             8119 Packages.gz
