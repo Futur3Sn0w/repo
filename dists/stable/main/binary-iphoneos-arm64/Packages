@@ -88,25 +88,6 @@ MD5sum: a100acb81ea066a2f6f0a711c598eb6f
 SHA1: f2d4f23aa9fe5be08125fc3bbe6391e23614393e
 SHA256: 91414194de82fc5a1099798175f46bc0f7168bb7fcfeea234ba540b421db4cf1
 
-Package: com.futur3sn0w.custhome
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
-Name: CustHome
-Version: 0.0.1-93+debug
-Architecture: iphoneos-arm64
-Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
-Maintainer: Futur3Sn0w
-Author: Futur3Sn0w
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Section: Tweaks
-Installed-Size: 660
-License: GPL-3.0-or-later
-Filename: debs/com.futur3sn0w.custhome_0.0.1-93+debug_iphoneos-arm64.deb
-Size: 77130
-MD5sum: 9e5d13d6394790b4950fb78d7d5f1d8f
-SHA1: 490759bd1fb7112f26a1493c92a35ff5b928f7bd
-SHA256: 919d6762b512667ce1fd749cf1caa34f7e660e6c75797f92d5485668320fada3
-
 Package: com.futur3sn0w.dockfull
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.dockfull.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.dockfull.json
@@ -253,24 +234,6 @@ MD5sum: e5602cc766204c64415b5891e5d4933b
 SHA1: 5836b1889afe423d7c6f6c3cb2130ccd87c7e309
 SHA256: 55afcce477505dcc44e0cfdda110345a9bc73312d3e094970be0786c717fd338
 
-Package: com.futur3sn0w.reroadrunner
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.reroadrunner.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.reroadrunner.json
-Name: ReRoadRunner
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Description: Keep apps alive through resprings
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Section: Tweaks
-Installed-Size: 412
-Filename: debs/com.futur3sn0w.reroadrunner_0.0.1_iphoneos-arm64.deb
-Size: 46834
-MD5sum: 51ea9169f7028d2964c071bce656d954
-SHA1: 25d10a14358b59b57c625740bef418916e68d1a7
-SHA256: 118a037ec2fea667289c14d93698e8d544495a3eb271226eace223783d653e59
-
 Package: com.futur3sn0w.resettings
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.resettings.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.resettings.json
@@ -289,24 +252,6 @@ Size: 83422
 MD5sum: 828947028951d1bd0dae48b2711862bf
 SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
 SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
-
-Package: com.futur3sn0w.sevenup
-Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.sevenup.png
-SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.sevenup.json
-Name: SevenUp
-Version: 0.10.0-9+debug
-Architecture: iphoneos-arm64
-Description: The classic iOS 7/8 app switcher, rootlessly reborn on iOS 16. Flat cards, reversed scroll, home screen card, big parallax icons.
-Maintainer: futur3sn0w
-Author: futur3sn0w
-Depends: firmware (>= 16.0), preferenceloader
-Section: Tweaks
-Installed-Size: 524
-Filename: debs/com.futur3sn0w.sevenup_0.10.0-9+debug_iphoneos-arm64.deb
-Size: 51976
-MD5sum: 81f8346af9790fcbea088ccae0db7d0e
-SHA1: d6820f42e7ce04a68e79e7bb2c3d9d80765537b5
-SHA256: cad9c2a5cf8fa852c32876c9802e954ed6d1949f5ccbafecc8b53bf54cc7e8a8
 
 Package: com.futur3sn0w.solert
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
