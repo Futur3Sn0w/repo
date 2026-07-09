@@ -129,19 +129,19 @@ Package: com.futur3sn0w.docklibrary
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.docklibrary.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.docklibrary.json
 Name: DockLibrary
-Version: 0.3.0
+Version: 0.3.1
 Architecture: iphoneos-arm64
 Description: Swipe up from the dock to open the App Library.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Section: Tweaks
-Installed-Size: 448
-Filename: debs/com.futur3sn0w.docklibrary_0.3.0_iphoneos-arm64.deb
-Size: 28944
-MD5sum: b73c9801ef28333a79fbde35c573309a
-SHA1: cea21bc73d51d442a5407c5143e1770cf7e48aa0
-SHA256: 2216560adf0f09bd6aebd598bfab0606215ab4b573ff7ed5ad4875db74205bad
+Installed-Size: 464
+Filename: debs/com.futur3sn0w.docklibrary_0.3.1_iphoneos-arm64.deb
+Size: 39300
+MD5sum: b0691fa0b6650ec2ed5fbb43fe1170fa
+SHA1: 1e3484e6a4715daf4aa402152e27aec705e9fc41
+SHA256: 481d806471abf9d2d7e35d87cd68ae4f66411c5bdd1425d48f6b3641172374e7
 
 Package: com.futur3sn0w.duowall
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
@@ -165,19 +165,19 @@ Package: com.futur3sn0w.finn
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.finn.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.finn.json
 Name: Finn
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.
 Maintainer: Futur3Sn0w
 Author: Futur3Sn0w
 Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 352
-Filename: debs/com.futur3sn0w.finn_1.0.0_iphoneos-arm64.deb
-Size: 14032
-MD5sum: 581eef814008516eb8a9d405beea4f2d
-SHA1: ee0dba2e31053b886c96a4a571b6d8a3f7a55d30
-SHA256: 38e7381fa95a0949273cfbf3ef6df59508035a9f5397b2369ee992574240cb66
+Installed-Size: 392
+Filename: debs/com.futur3sn0w.finn_1.0.1_iphoneos-arm64.deb
+Size: 24550
+MD5sum: 84ebd502a68504ca4d6cdddb8e255d24
+SHA1: 20baff116d8194ffe4b55ec5617f93d4777c37df
+SHA256: 240dff5e6571603de466d517b589b2bad8d385a0d6f6b61c552f48f129d725b0
 
 Package: com.futur3sn0w.muteflash
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
