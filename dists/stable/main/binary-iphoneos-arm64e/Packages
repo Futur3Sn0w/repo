@@ -2,37 +2,37 @@ Package: com.futur3sn0w.batterymirror
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.batterymirror.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.batterymirror.json
 Name: BatteryMirror
-Version: 0.0.3-1+debug
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Description: Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 452
-Filename: debs/com.futur3sn0w.batterymirror_0.0.3-1+debug_iphoneos-arm64.deb
-Size: 36032
-MD5sum: 6dbeaa8c57beb3d23d67c18fe014ffcd
-SHA1: 99512babd4fd9e325dfd4251da2a8a0b63876a26
-SHA256: 5629193485cc757e6dac65da412ed7f3159852cbb6ff5b557211194575a8e4b6
+Installed-Size: 432
+Filename: debs/com.futur3sn0w.batterymirror_0.0.4_iphoneos-arm64.deb
+Size: 34100
+MD5sum: 43f92bf3537b0da1331c01b508c23b01
+SHA1: dcfcb5b46911c367191b7b2d46c71ff8db537a74
+SHA256: 91720c451e0ecefb5ed56ab9e7d7a02c903c5c41962cadf729adc1cc131d9e01
 
 Package: com.futur3sn0w.battfx
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.battfx.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.battfx.json
 Name: BattFX
-Version: 0.0.4
+Version: 0.0.5
 Architecture: iphoneos-arm64
 Description: Styles the system battery indicator while keeping the modern percentage body available systemwide.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 348
-Filename: debs/com.futur3sn0w.battfx_0.0.4_iphoneos-arm64.deb
-Size: 18388
-MD5sum: b341475b4efe2f5c8ef49b0529b0e78b
-SHA1: bfdde8cf900aa69a581f9a9bbbee776cd7547e03
-SHA256: 3554cb4191f96d5cbab58764ccbbe6986b6f383c5cf5b78dacf48fb84346e262
+Installed-Size: 400
+Filename: debs/com.futur3sn0w.battfx_0.0.5_iphoneos-arm64.deb
+Size: 31926
+MD5sum: 2fe20b678e91450298e5a44356d646d3
+SHA1: d8e916029ad78dc8ce8f6ff59f6d964e91bff42e
+SHA256: 51415309be9f1b1cc9e1aaf3488f557ef2a013125ca24ac79b0e2a7c6b25ebba
 
 Package: com.futur3sn0w.ccsupportbatteryfix
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
@@ -183,19 +183,19 @@ Package: com.futur3sn0w.muteflash
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.muteflash.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.muteflash.json
 Name: MuteFlash
-Version: 0.0.1-9+debug
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Description: Use the ringer switch as a flashlight toggle without changing silent mode.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.futur3sn0w.mutemodule
 Section: Tweaks
-Installed-Size: 352
-Filename: debs/com.futur3sn0w.muteflash_0.0.1-9+debug_iphoneos-arm64.deb
-Size: 11358
-MD5sum: f65e47eb79e6341dc1dc08cce7c6db00
-SHA1: 53949c060ba929278272fe45043f4f481430c7a3
-SHA256: 6e48a9da3d09521e2bfa6c1c32cdc731ada36b728bdbd0be5ce2f28d7268fa5c
+Installed-Size: 388
+Filename: debs/com.futur3sn0w.muteflash_0.0.2_iphoneos-arm64.deb
+Size: 15564
+MD5sum: 7dd8fc150ca81f969908daee453b5c8e
+SHA1: 5fff9f1ab610af621e2db7efcbfe6b3a085f735a
+SHA256: 48a6528c2def5516453044f62c0818630b95f1d1487e236c9b5851805920febb
 
 Package: com.futur3sn0w.mutemodule
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.mutemodule.png
@@ -221,19 +221,19 @@ Package: com.futur3sn0w.noseparators
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.noseparators.json
 Name: NoSeparators
-Version: 0.0.1-1+debug
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Hide common UIKit separator lines systemwide on iOS 11.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 140
-Filename: debs/com.futur3sn0w.noseparators_0.0.1-1+debug_iphoneos-arm.deb
-Size: 14862
-MD5sum: 8764260c2f872847d980417cd104f37e
-SHA1: be6d7d4eb750df5d1bacf0e0b0d7fe9a4f5a50cf
-SHA256: cf2d8f27346b572e1ed0458abe34c872cc6a182e5e650224e701c0b9d8c72df2
+Installed-Size: 172
+Filename: debs/com.futur3sn0w.noseparators_0.0.2_iphoneos-arm.deb
+Size: 20448
+MD5sum: 8d2ed00618cca0ae0d174eb44f8b2ede
+SHA1: b098d65b87cc31d1a08d12bd5af1191a8f44dfe5
+SHA256: eacc3440d6b936cd4efb83ef1287e80f27f291ebc3b4e784f43d7d3f2e148cad
 
 Package: com.futur3sn0w.noseparators
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.noseparators.png
