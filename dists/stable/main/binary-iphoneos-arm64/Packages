@@ -110,19 +110,19 @@ Package: com.futur3sn0w.docklibrary
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.docklibrary.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.docklibrary.json
 Name: DockLibrary
-Version: 0.2.0
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Description: Swipe up from the dock to open the App Library.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Section: Tweaks
-Installed-Size: 412
-Filename: debs/com.futur3sn0w.docklibrary_0.2.0_iphoneos-arm64.deb
-Size: 26054
-MD5sum: 27acc10dc94e860f0736943f05619757
-SHA1: a9dc896129e2014d35064bcad4a04596d0f0bf99
-SHA256: ebbc474bc33bb4e1da319744d5c9e4a4678ff82271a5b1609a3f40b17244cc48
+Installed-Size: 448
+Filename: debs/com.futur3sn0w.docklibrary_0.3.0_iphoneos-arm64.deb
+Size: 28944
+MD5sum: b73c9801ef28333a79fbde35c573309a
+SHA1: cea21bc73d51d442a5407c5143e1770cf7e48aa0
+SHA256: 2216560adf0f09bd6aebd598bfab0606215ab4b573ff7ed5ad4875db74205bad
 
 Package: com.futur3sn0w.duowall
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
@@ -252,6 +252,24 @@ Size: 83422
 MD5sum: 828947028951d1bd0dae48b2711862bf
 SHA1: 3f5870f8070b04fc6aea45fb0a3f462aceb99fc2
 SHA256: 34b6997b145473d3d27d11927308827cf4ef6b6f5f61872b7c6e5b246cd5f3c0
+
+Package: com.futur3sn0w.sevenup
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.sevenup.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.sevenup.json
+Name: SevenUp
+Version: 0.10.0-9+debug
+Architecture: iphoneos-arm64
+Description: The classic iOS 7/8 app switcher, rootlessly reborn on iOS 16. Flat cards, reversed scroll, home screen card, big parallax icons.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 16.0), preferenceloader
+Section: Tweaks
+Installed-Size: 524
+Filename: debs/com.futur3sn0w.sevenup_0.10.0-9+debug_iphoneos-arm64.deb
+Size: 51976
+MD5sum: 81f8346af9790fcbea088ccae0db7d0e
+SHA1: d6820f42e7ce04a68e79e7bb2c3d9d80765537b5
+SHA256: cad9c2a5cf8fa852c32876c9802e954ed6d1949f5ccbafecc8b53bf54cc7e8a8
 
 Package: com.futur3sn0w.solert
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.solert.png
