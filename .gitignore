@@ -2,3 +2,5 @@
 AppSwitcherController/
 */.theos/
 */packages/
+debs/newtestfile.txt
+debs/*.testoverwrite
