@@ -97,15 +97,15 @@ Architecture: iphoneos-arm64
 Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
 Maintainer: Futur3Sn0w
 Author: Futur3Sn0w
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Section: Tweaks
-Installed-Size: 548
+Installed-Size: 308
 License: GPL-3.0-or-later
 Filename: debs/com.futur3sn0w.custhome_0.0.1_iphoneos-arm64.deb
-Size: 59616
-MD5sum: 942af2a38a8e7f0ea16a0aab0d77a88e
-SHA1: 1980c9f7904a79869ab1f378dacf1354e40ec868
-SHA256: 35ba1b6609887bbb749351d20256e618c4d5e3bc44736ecbc7f92bee20aadcd8
+Size: 50394
+MD5sum: 37b516a20dc5c4a73693514457e7255a
+SHA1: e5c550f3d3809191994f0483ce231a5810ae4a86
+SHA256: 6913077aed7c7f8a43c7caef81317004efc48741925a21cdadb41d2f8241aad4
 
 Package: com.futur3sn0w.dockfull
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.dockfull.png
