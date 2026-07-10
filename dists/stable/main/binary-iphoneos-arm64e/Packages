@@ -92,7 +92,7 @@ Package: com.futur3sn0w.custhome
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
 Name: CustHome
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Description: Backport the modern Home Screen customize experience to iOS 16 and 17.
 Maintainer: Futur3Sn0w
@@ -101,11 +101,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Section: Tweaks
 Installed-Size: 308
 License: GPL-3.0-or-later
-Filename: debs/com.futur3sn0w.custhome_0.0.1_iphoneos-arm64.deb
-Size: 50394
-MD5sum: 37b516a20dc5c4a73693514457e7255a
-SHA1: e5c550f3d3809191994f0483ce231a5810ae4a86
-SHA256: 6913077aed7c7f8a43c7caef81317004efc48741925a21cdadb41d2f8241aad4
+Filename: debs/com.futur3sn0w.custhome_0.0.2_iphoneos-arm64.deb
+Size: 50540
+MD5sum: 9fc047f02bc7ecfb5b67c9842ba7f55f
+SHA1: f09d888ff0cc1150fdb39cc031c7c31252c2b566
+SHA256: cb34905ea801287fe782cdb1895aa6443895989329e1a9c7878ab4f0ae385db0
 
 Package: com.futur3sn0w.dockfull
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.dockfull.png
