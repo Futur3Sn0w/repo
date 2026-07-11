@@ -34,7 +34,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "0.4.0"
+          "text": "0.4.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -61,6 +61,20 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Version 0.4.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownTextView",
+          "markdown": "\u2022 Fixed App Library category folders closing right after they opened when Close on Launch was enabled",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "Version 0.4.0",
