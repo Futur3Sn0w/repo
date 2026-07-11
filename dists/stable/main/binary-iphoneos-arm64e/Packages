@@ -129,19 +129,19 @@ Package: com.futur3sn0w.docklibrary
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.docklibrary.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.docklibrary.json
 Name: DockLibrary
-Version: 0.3.1
+Version: 0.4.0
 Architecture: iphoneos-arm64
 Description: Swipe up from the dock to open the App Library.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Section: Tweaks
-Installed-Size: 464
-Filename: debs/com.futur3sn0w.docklibrary_0.3.1_iphoneos-arm64.deb
-Size: 39300
-MD5sum: b0691fa0b6650ec2ed5fbb43fe1170fa
-SHA1: 1e3484e6a4715daf4aa402152e27aec705e9fc41
-SHA256: 481d806471abf9d2d7e35d87cd68ae4f66411c5bdd1425d48f6b3641172374e7
+Installed-Size: 436
+Filename: debs/com.futur3sn0w.docklibrary_0.4.0_iphoneos-arm64.deb
+Size: 38224
+MD5sum: 5e67666e7d9ea73a8d0b1c262a113f44
+SHA1: 2e27c7515c157801027752b8c82a31eee1f9eaa6
+SHA256: 334a94ab938e74f63f0bf155ccdc34da206108b5c5cda34553fd9e4a7f0427f3
 
 Package: com.futur3sn0w.duowall
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
