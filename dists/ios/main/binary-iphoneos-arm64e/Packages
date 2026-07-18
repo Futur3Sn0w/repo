@@ -92,7 +92,7 @@ Package: com.futur3sn0w.custhome
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.custhome.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.custhome.json
 Name: CustHome
-Version: 0.1.0-15probe2
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Description: Backport the modern Home Screen customize experience to iOS 15, 16, and 17.
 Maintainer: Futur3Sn0w
@@ -101,11 +101,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Section: Tweaks
 Installed-Size: 340
 License: GPL-3.0-or-later
-Filename: debs/com.futur3sn0w.custhome_0.1.0-15probe2_iphoneos-arm64.deb
-Size: 58444
-MD5sum: db74f3aa76aff19ff2bd421f6d7df834
-SHA1: b50160abeccbfebd063192426bc4abf38dab6c92
-SHA256: 19d2839d53ddceb6fa058923a2102d9d8fd78f6275c8270ba85b2786ae458070
+Filename: debs/com.futur3sn0w.custhome_0.2.0_iphoneos-arm64.deb
+Size: 53502
+MD5sum: 0c516c9fdf057002304b808a7c6d1015
+SHA1: 604308d6a8082d55f9d59b49add9362e307e1b60
+SHA256: 6c7e643b35ec1300b23dc976923c752909bd4ef7429e007c924c9a62d1cf5afe
 
 Package: com.futur3sn0w.dockfull
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.dockfull.png
@@ -129,19 +129,19 @@ Package: com.futur3sn0w.docklibrary
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.docklibrary.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.docklibrary.json
 Name: DockLibrary
-Version: 0.4.1
+Version: 0.4.2
 Architecture: iphoneos-arm64
 Description: Swipe up from the dock to open the App Library.
 Maintainer: futur3sn0w
 Author: futur3sn0w
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Section: Tweaks
-Installed-Size: 436
-Filename: debs/com.futur3sn0w.docklibrary_0.4.1_iphoneos-arm64.deb
-Size: 37974
-MD5sum: 0f7e3e83583ec472eb24c4dddd11585f
-SHA1: aaac10c012ae752ca021fff26a84ddfdef6a4ab2
-SHA256: 64abb586f7d5680ddbc5ca8ab4b454d68d33e47540f7c4d52b2b9758b8b3b3fd
+Installed-Size: 400
+Filename: debs/com.futur3sn0w.docklibrary_0.4.2_iphoneos-arm64.deb
+Size: 34676
+MD5sum: 620e5727c9564c6f3a420e6af42fc86a
+SHA1: 0d7ec5d84eaa4f1fe72e19f096310ce78874efdf
+SHA256: 7894268aa28370bee06e7acff165f4ee77d0102e269de78bf37711f154d2d9a5
 
 Package: com.futur3sn0w.duowall
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.duowall.png
