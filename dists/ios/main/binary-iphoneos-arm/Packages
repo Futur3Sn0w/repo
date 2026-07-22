@@ -111,19 +111,19 @@ Package: com.futur3sn0w.dockfull
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.dockfull.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.dockfull.json
 Name: DockFull
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm64
-Description: Expands the dock background to the screen edges and removes the rounded dock corners.
+Description: Adds switchable full-width dock styles, including a square extended dock, a rounded card dock, and a stock floating mode.
 Maintainer: futur3sn0w
 Author: futur3sn0w
-Depends: firmware (>= 16.0), mobilesubstrate
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
 Section: Tweaks
-Installed-Size: 168
-Filename: debs/com.futur3sn0w.dockfull_0.0.2_iphoneos-arm64.deb
-Size: 6290
-MD5sum: 3a8a860f70d40a9747e70ac12aafc868
-SHA1: 2ffe2290ab193da244316c54a67fcdf201dc785d
-SHA256: 3ab20c95833b4491df4b1d91708381b26c066b97c95e1dc4a6c7ad30fdf20d1e
+Installed-Size: 368
+Filename: debs/com.futur3sn0w.dockfull_0.0.3_iphoneos-arm64.deb
+Size: 20508
+MD5sum: 9a9638deb5065007d2f71e417a4502f3
+SHA1: 7404323bd3ab646b62060275ee3d2dcd9ea41e06
+SHA256: 14790d0e02bf0dc635e227a8310b30d0640d85d229ca779206d2e90ecdb8d002
 
 Package: com.futur3sn0w.docklibrary
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.docklibrary.png
