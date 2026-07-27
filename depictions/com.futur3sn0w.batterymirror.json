@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Mirrors the statusbar battery on the Low Power Mode toggle in Control Center.\n\nMirrors the statusbar battery on the Low Power Mode toggle in Control Center.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed layout on iOS 16 CC redesign",
           "useSpacing": false
         },
@@ -82,7 +76,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

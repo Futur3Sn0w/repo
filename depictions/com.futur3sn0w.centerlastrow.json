@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Centers the final SpringBoard icon row when it is not full.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Centers the final SpringBoard icon row when it is not full.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Centers the final SpringBoard icon row when it is not full.\n\nCenters the final SpringBoard icon row when it is not full.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

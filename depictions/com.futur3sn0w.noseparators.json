@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Hide common UIKit separator lines systemwide on iOS 11.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Hide common UIKit separator lines systemwide on iOS 11.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Hide common UIKit separator lines systemwide on iOS 11.\n\nHide common UIKit separator lines systemwide on iOS 11.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

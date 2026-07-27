@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Styles the system battery indicator while keeping the modern percentage body available systemwide.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Styles the system battery indicator while keeping the modern percentage body available systemwide.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Styles the system battery indicator while keeping the modern percentage body available systemwide.\n\nStyles the system battery indicator while keeping the modern percentage body available systemwide.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Improved compatibility with iOS 16.x",
           "useSpacing": false
         },
@@ -82,12 +76,12 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed rendering on iPad",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Preference panel polish",
           "useSpacing": false
         },
@@ -101,7 +95,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

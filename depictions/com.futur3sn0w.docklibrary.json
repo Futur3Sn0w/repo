@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Swipe up from the dock to open the App Library.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Turns a swipe up on the dock into a drawer that grows the App Library right out of it \u2014 as a floating panel anchored to the dock, or full immersive edge-to-edge. Pairs with DockFull: if it's installed, the immersive drawer squares off its corners to match the squared-off dock.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Swipe up from the dock to open the App Library.\n\nTurns a swipe up on the dock into a drawer that grows the App Library right out of it \u2014 as a floating panel anchored to the dock, or full immersive edge-to-edge. Pairs with DockFull: if it's installed, the immersive drawer squares off its corners to match the squared-off dock.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Removes development logging and introspection hooks from the public build",
           "useSpacing": false
         },
@@ -82,7 +76,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed App Library category folders closing right after they opened when Close on Launch was enabled",
           "useSpacing": false
         },
@@ -96,12 +90,12 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed App Library category groups immediately closing after their open animation",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 DockLibrary now uses an independent App Library controller for the drawer instead of borrowing SpringBoard's trailing App Library page when possible",
           "useSpacing": false
         },
@@ -115,17 +109,17 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added Swipe Up Anywhere: with it on, a swipe up from anywhere on your home screen opens the drawer, not just from the dock",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 The drawer follows your finger the same way either way \u2014 it never jumps to meet you, and only opens if you cross the threshold",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added a Fade & Scale animation option: the home screen now scales down slightly as the drawer opens, and back up as it closes, alongside the existing fade",
           "useSpacing": false
         },
@@ -139,22 +133,22 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed the floating-style drawer squeezing App Library content to the dock's narrower width, which let it scroll sideways instead of only up/down",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Locked out horizontal bounce/scroll on the library's own scroll view as a backup",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Immersive style now detects DockFull and squares off the drawer's corners to match it",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Immersive style content now clears the notch/Dynamic Island with a bit of top padding, while the backdrop still reaches the very top of the screen",
           "useSpacing": false
         },

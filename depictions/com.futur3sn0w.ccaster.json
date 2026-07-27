@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "A modern, editable Control Center experience for iOS 16.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Arrange and resize controls on an 8x4 grid, add controls from CCAster's custom sheet, move between multiple pages, and reach editing and power actions from the Control Center header.",
+          "class": "DepictionMarkdownView",
+          "markdown": "A modern, editable Control Center experience for iOS 16.\n\nArrange and resize controls on an 8x4 grid, add controls from CCAster's custom sheet, move between multiple pages, and reach editing and power actions from the Control Center header.",
           "useSpacing": true
         },
         {
@@ -68,8 +62,8 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "• Added arm64e support for newer devices",
+          "class": "DepictionMarkdownView",
+          "markdown": "\u2022 Added arm64e support for newer devices",
           "useSpacing": false
         },
         {
@@ -82,18 +76,18 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "• Added editable multi-page 8x4 Control Center layouts",
+          "class": "DepictionMarkdownView",
+          "markdown": "\u2022 Added editable multi-page 8x4 Control Center layouts",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "• Added CCAster's control sheet, module resizing, and Quick Access Buttons",
+          "class": "DepictionMarkdownView",
+          "markdown": "\u2022 Added CCAster's control sheet, module resizing, and Quick Access Buttons",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "• Added an option to preserve saved pages while limiting Control Center to page one",
+          "class": "DepictionMarkdownView",
+          "markdown": "\u2022 Added an option to preserve saved pages while limiting Control Center to page one",
           "useSpacing": false
         }
       ]
