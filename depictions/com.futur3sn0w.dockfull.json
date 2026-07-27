@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Adds switchable full-width dock styles, including a square extended dock, a rounded card dock, and a stock floating mode.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Adds a DockFull settings pane with On, Card, and Off modes. On stretches and squares the dock background, Card keeps a rounded full-width dock card, and Off leaves the stock floating dock alone.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Adds switchable full-width dock styles, including a square extended dock, a rounded card dock, and a stock floating mode.\n\nAdds a DockFull settings pane with On, Card, and Off modes. On stretches and squares the dock background, Card keeps a rounded full-width dock card, and Off leaves the stock floating dock alone.",
           "useSpacing": true
         },
         {
@@ -68,17 +62,17 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added DockFull settings with On, Card, and Off modes",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added a rounded Card dock style and stock Off mode",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added a rootless-safe respring button in Settings",
           "useSpacing": false
         },
@@ -92,17 +86,17 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Fixed the dock's icon list keeping its old, narrower frame after the dock itself expanded to full width",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 This mismatch was making the icon row (most visible entering the App Library) drift and scroll horizontally on its own",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 The icon list now snaps to the dock's full bounds and locks out scrolling if it's backed by a scroll view",
           "useSpacing": false
         },
@@ -116,7 +110,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

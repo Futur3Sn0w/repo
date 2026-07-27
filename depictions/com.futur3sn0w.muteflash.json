@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Use the ringer switch as a flashlight toggle without changing silent mode.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Use the ringer switch as a flashlight toggle without changing silent mode.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Use the ringer switch as a flashlight toggle without changing silent mode.\n\nUse the ringer switch as a flashlight toggle without changing silent mode.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

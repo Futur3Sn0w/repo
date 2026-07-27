@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Tap the status bar clock to briefly show the date on iOS 15+.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Tap the status bar clock to briefly show the date on iOS 15+.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Tap the status bar clock to briefly show the date on iOS 15+.\n\nTap the status bar clock to briefly show the date on iOS 15+.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

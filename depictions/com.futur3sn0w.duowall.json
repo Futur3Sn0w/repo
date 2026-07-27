@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Create native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.\n\nCreate native light and dark WallpaperKit pairs that appear in Collections and switch automatically with system appearance.",
           "useSpacing": true
         },
         {
@@ -68,12 +62,12 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Stability improvements",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Better pair editor UI",
           "useSpacing": false
         },
@@ -87,7 +81,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Added Collections integration",
           "useSpacing": false
         },
@@ -101,7 +95,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

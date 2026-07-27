@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "iOS 26-inspired UIAlertController restyling for iOS 15.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "iOS 26-inspired UIAlertController restyling for iOS 15.",
+          "class": "DepictionMarkdownView",
+          "markdown": "iOS 26-inspired UIAlertController restyling for iOS 15.\n\niOS 26-inspired UIAlertController restyling for iOS 15.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

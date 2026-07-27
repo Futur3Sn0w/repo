@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Manage packages in Cydia via swipe.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Manage packages in Cydia via swipe.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Manage packages in Cydia via swipe.\n\nManage packages in Cydia via swipe.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 iOS 7.1.x compatibility fixes",
           "useSpacing": false
         },
@@ -82,7 +76,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

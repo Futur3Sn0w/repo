@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Exposes Apple's hidden Control Center mute module on iPhone.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Exposes Apple's hidden Control Center mute module on iPhone.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Exposes Apple's hidden Control Center mute module on iPhone.\n\nExposes Apple's hidden Control Center mute module on iPhone.",
           "useSpacing": true
         },
         {
@@ -68,7 +62,7 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Initial release",
           "useSpacing": false
         },

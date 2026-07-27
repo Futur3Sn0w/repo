@@ -9,14 +9,8 @@
       "class": "DepictionStackView",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.",
-          "useBoldText": false,
-          "useBottomMargin": true
-        },
-        {
-          "class": "DepictionMarkdownTextView",
-          "markdown": "Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.",
+          "class": "DepictionMarkdownView",
+          "markdown": "Tints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.\n\nTints the homescreen context-menu backdrop to the app icon color. Rootless rewrite of Koi for iOS 15 & 16.",
           "useSpacing": true
         },
         {
@@ -68,17 +62,17 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Full rootless rewrite",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Removed libKitten dependency",
           "useSpacing": false
         },
         {
-          "class": "DepictionMarkdownTextView",
+          "class": "DepictionMarkdownView",
           "markdown": "\u2022 Self-contained color sampling",
           "useSpacing": false
         },
