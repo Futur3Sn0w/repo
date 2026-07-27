@@ -34,6 +34,24 @@ MD5sum: 2fe20b678e91450298e5a44356d646d3
 SHA1: d8e916029ad78dc8ce8f6ff59f6d964e91bff42e
 SHA256: 51415309be9f1b1cc9e1aaf3488f557ef2a013125ca24ac79b0e2a7c6b25ebba
 
+Package: com.futur3sn0w.ccaster
+Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccaster.png
+SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccaster.json
+Name: CCAster
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Description: An iOS 18-inspired, editable Control Center experience for iOS 16.
+Maintainer: futur3sn0w
+Author: futur3sn0w
+Depends: firmware (>= 16.0), firmware (<< 17.0), ellekit, preferenceloader
+Section: Tweaks
+Installed-Size: 800
+Filename: debs/com.futur3sn0w.ccaster_0.0.2_iphoneos-arm64.deb
+Size: 249610
+MD5sum: 2bf849f70d61759ffa265ee8108931a5
+SHA1: e84890d70007f9d588afaa0cc2cb64934b5a1435
+SHA256: 2ae5f6335e59446cd6c07808dd249d41451fc048a497f68e11376305b70255b9
+
 Package: com.futur3sn0w.ccsupportbatteryfix
 Icon: https://futur3sn0w.github.io/repo/icons/com.futur3sn0w.ccsupportbatteryfix.png
 SileoDepiction: https://futur3sn0w.github.io/repo/depictions/com.futur3sn0w.ccsupportbatteryfix.json
