@@ -16,6 +16,7 @@ Public tweak source has moved to the MoarTweaks organization so each package can
 | --- | --- | --- |
 | BattFX | `com.futur3sn0w.battfx` | https://github.com/MoarTweaks/Batt27 |
 | BatteryMirror | `com.futur3sn0w.batterymirror` | https://github.com/MoarTweaks/BatteryMirror |
+| CCAster | `com.futur3sn0w.ccaster` | https://github.com/MoarTweaks/CCAster |
 | CCSupport Battery Fix | `com.futur3sn0w.ccsupportbatteryfix` | https://github.com/MoarTweaks/CCSupportBatteryFix |
 | CenterLastRow | `com.futur3sn0w.centerlastrow` | https://github.com/MoarTweaks/CenterLastRow |
 | CustHome | `com.futur3sn0w.custhome` | https://github.com/MoarTweaks/CustHome |
